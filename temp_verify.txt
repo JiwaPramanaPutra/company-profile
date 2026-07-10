@@ -1,0 +1,1948 @@
+﻿<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Jiwa Cyber Network" />
+    
+    <title>Jiwa Cyber Network - Premium IT Network Infrastructure</title>
+<meta name="description" content="Jiwa Cyber Network delivers enterprise-grade network installation, WiFi optimization, structured cabling, and infrastructure maintenance to ensure stable, secure, and high-performance connectivity for businesses across Bali.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://company-profile.test">
+<meta property="og:title" content="Jiwa Cyber Network - Premium IT Network Infrastructure">
+<meta property="og:description" content="Jiwa Cyber Network delivers enterprise-grade network installation, WiFi optimization, structured cabling, and infrastructure maintenance to ensure stable, secure, and high-performance connectivity for businesses across Bali.">
+<meta property="og:image" content="http://company-profile.test/images/seo/og-image.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://company-profile.test">
+<meta property="twitter:title" content="Jiwa Cyber Network - Premium IT Network Infrastructure">
+<meta property="twitter:description" content="Jiwa Cyber Network delivers enterprise-grade network installation, WiFi optimization, structured cabling, and infrastructure maintenance to ensure stable, secure, and high-performance connectivity for businesses across Bali.">
+<meta property="twitter:image" content="http://company-profile.test/images/seo/og-image.jpg">
+
+<link rel="canonical" href="http://company-profile.test">
+
+<!-- JSON-LD LocalBusiness Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Jiwa Cyber Network",
+  "image": "http://company-profile.test/images/seo/og-image.jpg",
+  "url": "http://company-profile.test",
+  "telephone": "+62 812 3456 7890",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Jl. Teknologi Canggih No. 42",
+    "addressLocality": "Denpasar",
+    "addressRegion": "Bali",
+    "addressCountry": "ID"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "https://linkedin.com/company/jiwacybernetwork",
+    "https://instagram.com/jiwacybernetwork",
+    "https://facebook.com/jiwacyber"
+  ]
+}
+</script>
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet" />
+
+    
+    <script>
+        if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+        const savedLang = localStorage.getItem('lang') || 'id';
+        document.documentElement.lang = savedLang;
+    </script>
+
+    
+    <script>
+        window.AppTranslations = {
+            id: {
+                navbar: {"home":"Beranda","about":"Tentang Kami","services":"Layanan","portfolio":"Portofolio","testimonials":"Testimoni","contact":"Kontak","contact_us":"Hubungi Kami","theme":{"light":"Mode Terang","dark":"Mode Gelap"},"language":"Ganti Bahasa"},
+                home: {"hero":{"badge":"Partner Infrastruktur IT Terpercaya di Bali","title_1":"Membangun Jaringan yang","title_highlight":"Cepat, Aman & Stabil","subtitle":"Kami mendesain, menginstal, dan memelihara infrastruktur jaringan enterprise untuk hotel, vila, kantor, dan bisnis komersial di seluruh Bali.","cta_primary":"Konsultasi Gratis","cta_secondary":"Lihat Layanan","uptime":"Uptime Jaringan","guarantee":"Garansi SLA Enterprise"},"trusted_by":{"title":"Dipercaya Oleh Bisnis di Seluruh Bali"},"about":{"title":"Ahli Infrastruktur Jaringan Anda","subtitle":"Tentang Kami","desc_1":"Jiwa Cyber Network adalah perusahaan IT yang berbasis di Bali, berspesialisasi dalam rekayasa jaringan, pemasangan kabel terstruktur, dan solusi WiFi untuk tingkat enterprise.","desc_2":"Misi kami adalah menjembatani kesenjangan antara teknologi kompleks dan operasi bisnis yang lancar, memastikan klien kami selalu terhubung tanpa gangguan.","point_1":"Teknisi Tersertifikasi Profesional","point_2":"Perangkat Keras Standar Enterprise","point_3":"Dukungan Teknis & Pemantauan 24\/7","cta":"Pelajari Lebih Lanjut","years_experience":"Tahun Pengalaman"},"why_choose_us":{"title":"Keunggulan Kami","subtitle":"Mengapa Memilih Kami","description":"Kami tidak sekadar memasang kabel; kami membangun ekosistem digital yang tangguh untuk mendukung pertumbuhan bisnis Anda.","reason_1_title":"Kualitas Enterprise","reason_1_desc":"Kami hanya menggunakan perangkat dan standar pemasangan tingkat korporasi untuk menjamin stabilitas maksimal.","reason_2_title":"Desain Tepat Guna","reason_2_desc":"Setiap topologi jaringan dirancang khusus menyesuaikan dengan tata letak bangunan dan kebutuhan operasional.","reason_3_title":"Dukungan Cepat Tanggap","reason_3_desc":"Tim teknis kami selalu siap memonitor dan memperbaiki masalah sebelum mengganggu bisnis Anda."},"stats":{"years":"Tahun Pengalaman","projects":"Proyek Selesai","clients":"Klien Bisnis Aktif","response":"Waktu Respon SLA"},"services":{"title":"Layanan Infrastruktur Kami","subtitle":"Keahlian Kami","description":"Solusi jaringan end-to-end yang dirancang untuk keandalan, keamanan, dan skalabilitas tinggi.","learn_more":"Pelajari Lebih Lanjut"},"service_area":{"title":"Jangkauan Layanan Kami","subtitle":"Cakupan Wilayah","description":"Tim teknisi kami siap dikerahkan ke seluruh penjuru Bali untuk membangun dan memelihara infrastruktur jaringan bisnis Anda dengan standar enterprise terbaik."},"tech_partners":{"title":"Teknologi yang Kami Gunakan","subtitle":"Bermitra dengan merek jaringan global terkemuka untuk menghadirkan kualitas tanpa kompromi."},"process":{"title":"Cara Kami Bekerja","subtitle":"Proses Kerja","description":"Pendekatan sistematis kami memastikan setiap proyek diselesaikan tepat waktu, sesuai anggaran, dan melampaui standar industri."},"portfolio":{"title":"Proyek Terselesaikan","subtitle":"Portofolio","description":"Lihat bagaimana kami mentransformasi infrastruktur TI di berbagai industri, dari vila mewah hingga ruang kantor korporat.","view_all":"Lihat Semua Proyek"},"testimonials":{"title":"Apa Kata Klien","subtitle":"Testimoni","description":"Jangan hanya percaya pada kata-kata kami. Dengarkan langsung dari bisnis yang mengandalkan infrastruktur jaringan kami."},"faq":{"title":"Pertanyaan Umum","subtitle":"FAQ","description":"Temukan jawaban cepat mengenai layanan instalasi dan pemeliharaan jaringan kami."},"emergency":{"title":"Butuh Dukungan Darurat?","subtitle":"Tim teknis kami standby untuk menangani masalah kritis jaringan Anda.","response_time":"Target Waktu Respon SLA"},"contact":{"title":"Mulai Proyek Anda","subtitle":"Hubungi Kami","description":"Siap meningkatkan infrastruktur jaringan Anda? Hubungi kami untuk survei lokasi dan konsultasi gratis.","office":"Kantor Pusat","get_directions":"Lihat di Google Maps","hours":"Jam Operasional","form_name":"Nama Lengkap","form_email":"Alamat Email","form_service":"Layanan yang Dibutuhkan","form_select":"Pilih Layanan","form_message":"Detail Proyek atau Pesan","form_placeholder":"Ceritakan tentang kebutuhan jaringan Anda...","form_submit":"Kirim Pesan","form_submitting":"Mengirim...","error_required":"Kolom ini wajib diisi.","error_email":"Format email tidak valid.","success_title":"Pesan Terkirim!","success_desc":"Terima kasih telah menghubungi kami. Tim kami akan membalas pesan Anda dalam waktu 1x24 jam kerja.","send_another":"Kirim Pesan Baru"}},
+                footer: {"quick_links":"Tautan Cepat","services":"Layanan Utama","contact_us":"Hubungi Kami","rights_reserved":"Hak cipta dilindungi undang-undang.","copyright":"Hak Cipta \u00a9 :year :company. Hak cipta dilindungi undang-undang.","description":"Solusi infrastruktur jaringan lokal profesional untuk bisnis Anda."},
+            },
+            en: {
+                navbar: {"home":"Home","about":"About","services":"Services","portfolio":"Portfolio","testimonials":"Testimonials","contact":"Contact","contact_us":"Contact Us","theme":{"light":"Light Mode","dark":"Dark Mode"},"language":"Switch Language"},
+                home: {"hero":{"badge":"Bali's Trusted IT Infrastructure Partner","title_1":"Building Networks that are","title_highlight":"Fast, Secure & Stable","subtitle":"We design, install, and maintain enterprise-grade network infrastructure for hotels, villas, offices, and commercial businesses across Bali.","cta_primary":"Free Consultation","cta_secondary":"View Services","uptime":"Network Uptime","guarantee":"Enterprise SLA Guarantee"},"trusted_by":{"title":"Trusted by Businesses Across Bali"},"about":{"title":"Your Network Infrastructure Experts","subtitle":"About Us","desc_1":"Jiwa Cyber Network is a Bali-based IT company specializing in enterprise-grade network engineering, structured cabling, and WiFi solutions.","desc_2":"Our mission is to bridge the gap between complex technology and seamless business operations, ensuring our clients are always connected without interruption.","point_1":"Certified Professional Technicians","point_2":"Enterprise-Standard Hardware","point_3":"24\/7 Technical Support & Monitoring","cta":"Learn More","years_experience":"Years Experience"},"why_choose_us":{"title":"Our Competitive Advantage","subtitle":"Why Choose Us","description":"We do not just pull cables; we build resilient digital ecosystems to support your business growth.","reason_1_title":"Enterprise Quality","reason_1_desc":"We strictly use corporate-grade equipment and installation standards to guarantee maximum stability.","reason_2_title":"Purpose-Driven Design","reason_2_desc":"Every network topology is custom-designed adapting to your building layout and operational needs.","reason_3_title":"Responsive Support","reason_3_desc":"Our technical team is always ready to monitor and fix issues before they disrupt your business."},"stats":{"years":"Years of Experience","projects":"Completed Projects","clients":"Active Business Clients","response":"SLA Response Time"},"services":{"title":"Our Infrastructure Services","subtitle":"Our Expertise","description":"End-to-end network solutions designed for high reliability, security, and scalability.","learn_more":"Learn More"},"service_area":{"title":"Our Service Coverage","subtitle":"Service Area","description":"Our team of technicians is ready to be deployed across Bali to build and maintain your business network infrastructure to the highest enterprise standards."},"tech_partners":{"title":"Technologies We Use","subtitle":"Partnering with leading global networking brands to deliver uncompromising quality."},"process":{"title":"How We Work","subtitle":"Workflow Process","description":"Our systematic approach ensures every project is delivered on time, within budget, and exceeds industry standards."},"portfolio":{"title":"Completed Projects","subtitle":"Portfolio","description":"See how we have transformed IT infrastructure across various industries, from luxury villas to corporate office spaces.","view_all":"View All Projects"},"testimonials":{"title":"What Our Clients Say","subtitle":"Testimonials","description":"Do not just take our word for it. Hear directly from the businesses that rely on our network infrastructure."},"faq":{"title":"Frequently Asked Questions","subtitle":"FAQ","description":"Find quick answers regarding our network installation and maintenance services."},"emergency":{"title":"Need Emergency Support?","subtitle":"Our technical team is on standby to handle your critical network issues.","response_time":"SLA Target Response Time"},"contact":{"title":"Start Your Project","subtitle":"Contact Us","description":"Ready to upgrade your network infrastructure? Contact us for a free site survey and consultation.","office":"Head Office","get_directions":"View on Google Maps","hours":"Business Hours","form_name":"Full Name","form_email":"Email Address","form_service":"Required Service","form_select":"Select a Service","form_message":"Project Details or Message","form_placeholder":"Tell us about your networking needs...","form_submit":"Send Message","form_submitting":"Sending...","error_required":"This field is required.","error_email":"Invalid email format.","success_title":"Message Sent!","success_desc":"Thank you for reaching out. Our team will reply to your message within 24 business hours.","send_another":"Send Another Message"}},
+                footer: {"quick_links":"Quick Links","services":"Main Services","contact_us":"Contact Us","rights_reserved":"All rights reserved.","copyright":"Copyright \u00a9 :year :company. All rights reserved.","description":"Professional local network infrastructure solutions for your business."},
+            }
+        };
+    </script>
+
+    <link rel="preload" as="style" href="http://company-profile.test/build/assets/app-CuCMLbMu.css" /><link rel="modulepreload" as="script" href="http://company-profile.test/build/assets/app-fH3AX4iZ.js" /><link rel="stylesheet" href="http://company-profile.test/build/assets/app-CuCMLbMu.css" /><script type="module" src="http://company-profile.test/build/assets/app-fH3AX4iZ.js"></script></head>
+<body 
+    x-data="{
+        lang: localStorage.getItem('lang') || 'id',
+        theme: localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'),
+        scrolled: false,
+        mobileMenuOpen: false,
+        t(key) {
+            const keys = key.split('.');
+            let val = window.AppTranslations[this.lang];
+            for (let k of keys) {
+                if (val === undefined) break;
+                val = val[k];
+            }
+            return val || key;
+        },
+        toggleTheme() {
+            this.theme = this.theme === 'light' ? 'dark' : 'light';
+        },
+        toggleLang() {
+            this.lang = this.lang === 'id' ? 'en' : 'id';
+        },
+        init() {
+            this.$watch('lang', val => {
+                localStorage.setItem('lang', val);
+                document.documentElement.lang = val;
+            });
+            this.$watch('theme', val => {
+                localStorage.setItem('theme', val);
+                if (val === 'dark') {
+                    document.documentElement.classList.add('dark');
+                } else {
+                    document.documentElement.classList.remove('dark');
+                }
+            });
+        }
+    }"
+    @scroll.window="scrolled = (window.pageYOffset > 50)"
+    class="bg-white dark:bg-slate-900 text-gray-900 dark:text-white transition-colors duration-300 ease-in-out antialiased"
+>
+    
+    <nav class="fixed top-0 left-0 w-full z-50 transition-all duration-300"
+     :class="{ 'glass-effect h-16 md:h-[72px]': scrolled, 'bg-transparent h-16 md:h-[72px] lg:h-20': !scrolled }">
+    <div class="w-full h-full flex flex-col justify-center">
+        <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="flex items-center justify-between">
+                <!-- Logo (Left) -->
+                <a href="http://company-profile.test" class="flex-shrink-0 flex items-center gap-3 group relative z-50 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded-lg p-1 transition-transform duration-200 hover:-translate-y-0.5" aria-label="Jiwa Cyber Network Home">
+                    <div class="relative flex items-center justify-center w-10 h-10 rounded-lg bg-gradient-to-br from-blue-600 to-cyan-500 text-white shadow-sm overflow-hidden">
+                        <svg class="w-6 h-6 relative z-10" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                        </svg>
+                    </div>
+                    <div class="flex flex-col">
+                        <span class="text-lg font-bold tracking-tight text-gray-900 dark:text-white leading-none">Jiwa Cyber</span>
+                        <span class="text-[10px] font-semibold text-blue-600 dark:text-cyan-400 uppercase tracking-widest mt-0.5">Network</span>
+                    </div>
+                </a>
+
+                <!-- Desktop Menu (Center) -->
+                <div class="hidden lg:flex flex-1 items-center justify-center gap-10">
+                    <a href="#about" class="text-sm font-semibold text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-cyan-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded px-2 py-1">About</a>
+                    <a href="#services" class="text-sm font-semibold text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-cyan-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded px-2 py-1">Services</a>
+                    <a href="#portfolio" class="text-sm font-semibold text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-cyan-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded px-2 py-1">Portfolio</a>
+                    <a href="#testimonials" class="text-sm font-semibold text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-cyan-400 transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 rounded px-2 py-1">Testimonials</a>
+                </div>
+
+                <!-- Actions (Right) -->
+                <div class="hidden lg:flex flex-shrink-0 items-center gap-4">
+                    
+                    <!-- Language Switcher -->
+                    <button @click="toggleLang()" class="flex items-center justify-center gap-2 h-10 px-3 rounded-lg border border-gray-200 dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-800 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm hover:shadow" aria-label="Toggle language">
+                        <span class="text-sm font-medium text-gray-700 dark:text-gray-300" x-text="lang === 'id' ? 'ID' : 'EN'"></span>
+                        <svg class="w-4 h-4 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                        </svg>
+                    </button>
+
+                    <!-- Theme Toggle -->
+                    <button @click="toggleTheme()" class="flex items-center justify-center w-10 h-10 text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white rounded-lg hover:bg-gray-100 dark:hover:bg-slate-800 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm hover:shadow border border-transparent dark:border-slate-700" aria-label="Toggle Dark Mode">
+                        <!-- Sun Icon -->
+                        <svg x-show="theme === 'dark'" style="display: none;" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+                        </svg>
+                        <!-- Moon Icon -->
+                        <svg x-show="theme === 'light'" style="display: none;" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+                        </svg>
+                    </button>
+
+                    <a href="#contact" class="inline-flex items-center justify-center gap-2 font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-slate-900 disabled:opacity-50 disabled:cursor-not-allowed bg-blue-600 text-white hover:bg-blue-700 hover:shadow-md hover:-translate-y-0.5 focus:ring-blue-500 shadow-sm border border-transparent dark:bg-cyan-600 dark:hover:bg-cyan-500 dark:focus:ring-cyan-500 h-9 px-4 text-sm " >
+                Contact
+    </a>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button @click="mobileMenuOpen = !mobileMenuOpen" class="lg:hidden p-2 relative z-50 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-slate-800 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 transition-colors duration-200" aria-label="Toggle menu" :aria-expanded="mobileMenuOpen.toString()">
+                    <svg x-show="!mobileMenuOpen" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                    </svg>
+                    <svg x-show="mobileMenuOpen" style="display: none;" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+</div>
+    </div>
+
+    <!-- Mobile Menu Overlay -->
+    <div x-show="mobileMenuOpen" 
+         x-transition:enter="transition ease-out duration-200"
+         x-transition:enter-start="opacity-0 -translate-y-4"
+         x-transition:enter-end="opacity-100 translate-y-0"
+         x-transition:leave="transition ease-in duration-150"
+         x-transition:leave-start="opacity-100 translate-y-0"
+         x-transition:leave-end="opacity-0 -translate-y-4"
+         @click.away="mobileMenuOpen = false"
+         class="lg:hidden absolute top-full left-0 w-full bg-white dark:bg-slate-900 border-b border-gray-200 dark:border-slate-800 shadow-xl"
+         style="display: none;">
+        
+        <div class="px-4 pt-2 pb-6 space-y-1">
+            <a href="#about" @click="mobileMenuOpen = false" class="block px-4 py-3 text-base font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-slate-800 rounded-lg">About</a>
+            <a href="#services" @click="mobileMenuOpen = false" class="block px-4 py-3 text-base font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-slate-800 rounded-lg">Services</a>
+            <a href="#portfolio" @click="mobileMenuOpen = false" class="block px-4 py-3 text-base font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-slate-800 rounded-lg">Portfolio</a>
+            <a href="#testimonials" @click="mobileMenuOpen = false" class="block px-4 py-3 text-base font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-slate-800 rounded-lg">Testimonials</a>
+            
+            <div class="h-px bg-gray-200 dark:bg-slate-800 my-4 mx-4"></div>
+            
+            <div class="flex items-center justify-between px-4 py-2">
+                <button @click="toggleLang()" class="flex items-center gap-2 px-4 py-2 rounded-lg bg-gray-100 dark:bg-slate-800 text-gray-900 dark:text-white font-medium w-full justify-center">
+                    <span x-text="lang === 'id' ? 'Ubah ke English' : 'Switch to Indonesia'"></span>
+                </button>
+            </div>
+            
+            <div class="flex items-center justify-between px-4 py-2">
+                <button @click="toggleTheme()" class="flex items-center gap-2 px-4 py-2 rounded-lg bg-gray-100 dark:bg-slate-800 text-gray-900 dark:text-white font-medium w-full justify-center">
+                    <span x-text="theme === 'dark' ? 'Light Mode' : 'Dark Mode'"></span>
+                </button>
+            </div>
+
+            <div class="px-4 mt-4">
+                <a href="#contact" class="inline-flex items-center justify-center gap-2 font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-slate-900 disabled:opacity-50 disabled:cursor-not-allowed bg-blue-600 text-white hover:bg-blue-700 hover:shadow-md hover:-translate-y-0.5 focus:ring-blue-500 shadow-sm border border-transparent dark:bg-cyan-600 dark:hover:bg-cyan-500 dark:focus:ring-cyan-500 h-11 px-5 text-base w-full" @click="mobileMenuOpen = false">
+                Contact
+    </a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+    <main class="min-h-screen">
+            <!-- Main Hero -->
+    <section id="hero" class="relative pt-24 md:pt-28 lg:pt-32 pb-16 md:pb-20 lg:pb-24 overflow-hidden min-h-[85vh] flex flex-col justify-center">
+    <!-- Subtle Background Orb (Dark Mode Only) -->
+    <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-blue-600/5 dark:bg-blue-600/10 blur-[120px] rounded-full pointer-events-none hidden dark:block opacity-70"></div>
+    <div class="absolute bottom-0 left-0 w-[400px] h-[400px] bg-cyan-500/5 dark:bg-cyan-500/10 blur-[100px] rounded-full pointer-events-none hidden dark:block opacity-60"></div>
+
+    <div class="w-full">
+        <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-8 items-center">
+                
+                <!-- Left: Text Content -->
+                <div class="max-w-2xl lg:max-w-none">
+                    <div class="animate-slide-up">
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium tracking-wide bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-300 mb-6">
+    <span class="flex h-2 w-2 rounded-full bg-blue-600 dark:bg-cyan-400 mr-2 opacity-80"></span>
+                            Bali&#039;s Trusted IT Infrastructure Partner
+</span>
+                    </div>
+
+                    <h1 class="text-[36px] md:text-[48px] lg:text-[64px] font-bold tracking-tight text-gray-900 dark:text-white leading-[1.1] mb-6 animate-slide-up delay-100 ">
+                        Building Networks that are
+                        <span class="text-gradient block mt-1">Fast, Secure &amp; Stable</span>
+                    </h1>
+
+                    <p class="text-[16px] md:text-[18px] lg:text-[20px] text-gray-600 dark:text-gray-400 mb-10 max-w-[60ch] animate-slide-up delay-200  leading-relaxed">
+                        We design, install, and maintain enterprise-grade network infrastructure for hotels, villas, offices, and commercial businesses across Bali.
+                    </p>
+
+                    <div class="flex flex-col sm:flex-row gap-4 animate-slide-up delay-300">
+                        <a href="#contact" class="inline-flex items-center justify-center gap-2 font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-slate-900 disabled:opacity-50 disabled:cursor-not-allowed bg-blue-600 text-white hover:bg-blue-700 hover:shadow-md hover:-translate-y-0.5 focus:ring-blue-500 shadow-sm border border-transparent dark:bg-cyan-600 dark:hover:bg-cyan-500 dark:focus:ring-cyan-500 h-12 px-6 text-lg w-full sm:w-auto" >
+                Free Consultation
+                            <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                            </svg>
+    </a>
+                        
+                        <a href="#services" class="inline-flex items-center justify-center gap-2 font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-slate-900 disabled:opacity-50 disabled:cursor-not-allowed bg-white text-gray-900 hover:bg-gray-50 border border-gray-200 shadow-sm hover:shadow-md hover:-translate-y-0.5 focus:ring-gray-200 dark:bg-slate-800 dark:text-white dark:border-slate-700 dark:hover:bg-slate-700 dark:focus:ring-slate-700 h-12 px-6 text-lg w-full sm:w-auto" >
+                View Services
+    </a>
+                    </div>
+                </div>
+
+                <!-- Right: Premium Visual -->
+                <div class="relative lg:ml-auto w-full max-w-[560px] animate-fade-in delay-400 mx-auto lg:mx-0">
+                    <div class="aspect-[4/3] rounded-2xl overflow-hidden shadow-xl relative border border-gray-200/50 dark:border-slate-700/50 bg-gray-100 dark:bg-slate-800">
+                        <div class="absolute inset-0 bg-gradient-to-tr from-blue-900/20 to-transparent z-10 mix-blend-multiply opacity-50"></div>
+                        <!-- Placeholder image matching dimensions -->
+                        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop" 
+                             alt="Network Infrastructure Engineer" 
+                             class="w-full h-full object-cover relative z-0 transition-transform duration-1000 hover:scale-[1.02]"
+                             loading="eager" />
+                    </div>
+                    
+                    <!-- Floating decorative element -->
+                    <div class="absolute -bottom-6 -left-6 bg-white dark:bg-slate-800 rounded-xl p-4 shadow-lg border border-gray-100 dark:border-slate-700 z-20 hidden md:flex items-center gap-4 transition-transform duration-300 hover:-translate-y-1">
+                        <div class="w-12 h-12 bg-emerald-50 dark:bg-emerald-900/20 rounded-lg flex items-center justify-center">
+                            <svg class="w-6 h-6 text-emerald-600 dark:text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                        </div>
+                        <div>
+                            <p class="text-sm font-bold text-gray-900 dark:text-white leading-none mb-1">100% Network Uptime</p>
+                            <p class="text-xs text-gray-500 dark:text-gray-400 leading-none">Enterprise SLA Guarantee</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+    </div>
+</section>
+
+    <!-- Trust & Credibility -->
+    <section class="py-16 border-b border-gray-100 dark:border-slate-800 bg-white dark:bg-slate-900/50">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="text-center scroll-reveal">
+            <p class="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-8">
+                Trusted by Businesses Across Bali
+            </p>
+            <div class="flex flex-wrap justify-center items-center gap-x-12 gap-y-8 opacity-60 grayscale hover:grayscale-0 transition-all duration-300">
+                <span class="text-lg font-display font-bold text-gray-800 dark:text-gray-300">Hotels</span>
+                <span class="text-lg font-display font-bold text-gray-800 dark:text-gray-300">Villas</span>
+                <span class="text-lg font-display font-bold text-gray-800 dark:text-gray-300">Offices</span>
+                <span class="text-lg font-display font-bold text-gray-800 dark:text-gray-300">Restaurants</span>
+                <span class="text-lg font-display font-bold text-gray-800 dark:text-gray-300">Schools</span>
+                <span class="text-lg font-display font-bold text-gray-800 dark:text-gray-300">Commercial Buildings</span>
+            </div>
+        </div>
+</div>
+</section>
+
+    <!-- Core Information -->
+    <section id="about" class="py-16 md:py-20 lg:py-24 bg-white dark:bg-slate-900">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+            <!-- Left: Visual -->
+            <div class="relative scroll-reveal max-w-[560px] mx-auto lg:mx-0 w-full">
+                <div class="aspect-square rounded-2xl overflow-hidden relative shadow-lg">
+                    <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=1200&auto=format&fit=crop" 
+                         alt="About Jiwa Cyber Network" 
+                         class="w-full h-full object-cover transition-transform duration-1000 hover:scale-[1.02]"
+                         loading="lazy" />
+                    <div class="absolute inset-0 bg-blue-900/10 mix-blend-multiply"></div>
+                </div>
+                
+                <!-- Floating stat -->
+                <div class="absolute -bottom-8 -right-8 bg-white dark:bg-slate-800 p-6 rounded-2xl shadow-xl border border-gray-100 dark:border-slate-700 hidden md:block">
+                    <p class="text-4xl font-display font-bold text-blue-600 dark:text-cyan-400 mb-1">10+</p>
+                    <p class="text-sm font-medium text-gray-600 dark:text-gray-400 uppercase tracking-wider">Years Experience</p>
+                </div>
+            </div>
+
+            <!-- Right: Content -->
+            <div class="scroll-reveal delay-200">
+                <div class="w-full mb-12 md:mb-16 lg:mb-20 text-left animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        Your Network Infrastructure Experts
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            About Us
+        </p>
+    
+            <div class="mt-6">
+            <p class="mb-6 text-gray-600 dark:text-gray-300 leading-relaxed text-lg">
+                        Jiwa Cyber Network is a Bali-based IT company specializing in enterprise-grade network engineering, structured cabling, and WiFi solutions.
+                    </p>
+                    <p class="mb-8 text-gray-600 dark:text-gray-300 leading-relaxed">
+                        Our mission is to bridge the gap between complex technology and seamless business operations, ensuring our clients are always connected without interruption.
+                    </p>
+
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-start gap-3">
+                            <div class="w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center shrink-0 mt-0.5">
+                                <svg class="w-4 h-4 text-blue-600 dark:text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                </svg>
+                            </div>
+                            <span class="text-gray-700 dark:text-gray-300 font-medium">Certified Professional Technicians</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <div class="w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center shrink-0 mt-0.5">
+                                <svg class="w-4 h-4 text-blue-600 dark:text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                </svg>
+                            </div>
+                            <span class="text-gray-700 dark:text-gray-300 font-medium">Enterprise-Standard Hardware</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <div class="w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center shrink-0 mt-0.5">
+                                <svg class="w-4 h-4 text-blue-600 dark:text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                                </svg>
+                            </div>
+                            <span class="text-gray-700 dark:text-gray-300 font-medium">24/7 Technical Support &amp; Monitoring</span>
+                        </li>
+                    </ul>
+
+                    <a href="#services" class="inline-flex items-center justify-center gap-2 font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-slate-900 disabled:opacity-50 disabled:cursor-not-allowed bg-transparent text-blue-600 border border-blue-600 hover:bg-blue-50 focus:ring-blue-500 dark:text-cyan-400 dark:border-cyan-400 dark:hover:bg-cyan-950 dark:focus:ring-cyan-500 hover:-translate-y-0.5 h-11 px-5 text-base " >
+                Learn More
+    </a>
+        </div>
+    </div>
+
+            </div>
+        </div>
+</div>
+</section>
+    <section class="py-16 md:py-20 lg:py-24 bg-gray-50 dark:bg-slate-900">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="w-full mb-12 md:mb-16 lg:mb-20 text-center animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        Our Competitive Advantage
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            Why Choose Us
+        </p>
+    
+            <div class="mt-6">
+            We do not just pull cables; we build resilient digital ecosystems to support your business growth.
+        </div>
+    </div>
+
+
+        <div class="grid md:grid-cols-3 gap-8 mt-16">
+            <!-- Reason 1 -->
+            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 text-center scroll-reveal delay-100">
+    <div class="w-16 h-16 mx-auto mb-6 bg-blue-100 dark:bg-blue-900/30 rounded-2xl flex items-center justify-center text-blue-600 dark:text-cyan-400">
+                    <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-4">Enterprise Quality</h3>
+                <p class="text-gray-600 dark:text-gray-400">We strictly use corporate-grade equipment and installation standards to guarantee maximum stability.</p>
+</div>
+
+            <!-- Reason 2 -->
+            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 text-center scroll-reveal delay-200">
+    <div class="w-16 h-16 mx-auto mb-6 bg-cyan-100 dark:bg-cyan-900/30 rounded-2xl flex items-center justify-center text-cyan-600 dark:text-cyan-400">
+                    <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-4">Purpose-Driven Design</h3>
+                <p class="text-gray-600 dark:text-gray-400">Every network topology is custom-designed adapting to your building layout and operational needs.</p>
+</div>
+
+            <!-- Reason 3 -->
+            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 text-center scroll-reveal delay-300">
+    <div class="w-16 h-16 mx-auto mb-6 bg-emerald-100 dark:bg-emerald-900/30 rounded-2xl flex items-center justify-center text-emerald-600 dark:text-emerald-400">
+                    <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18.364 5.636l-3.536 3.536m0 5.656l3.536 3.536M9.172 9.172L5.636 5.636m3.536 9.192l-3.536 3.536M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-5 0a4 4 0 11-8 0 4 4 0 018 0z" />
+                    </svg>
+                </div>
+                <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-4">Responsive Support</h3>
+                <p class="text-gray-600 dark:text-gray-400">Our technical team is always ready to monitor and fix issues before they disrupt your business.</p>
+</div>
+        </div>
+</div>
+</section>
+    <section class="py-16 md:py-20 lg:py-24 bg-blue-600 dark:bg-slate-800 relative overflow-hidden">
+    <!-- Decorative Background -->
+    <div class="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-white to-transparent dark:from-blue-500"></div>
+    
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8 relative z-10">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-4 divide-x-0 md:divide-x divide-white/20 dark:divide-slate-700">
+            
+            <!-- Stat 1 -->
+            <div class="text-center px-4 scroll-reveal delay-100">
+                <div class="text-4xl md:text-5xl font-display font-bold text-white mb-2">
+                    10<span class="text-cyan-300 dark:text-cyan-400">+</span>
+                </div>
+                <div class="text-blue-100 dark:text-slate-300 font-medium text-sm md:text-base">
+                    Years of Experience
+                </div>
+            </div>
+
+            <!-- Stat 2 -->
+            <div class="text-center px-4 scroll-reveal delay-200">
+                <div class="text-4xl md:text-5xl font-display font-bold text-white mb-2">
+                    250<span class="text-cyan-300 dark:text-cyan-400">+</span>
+                </div>
+                <div class="text-blue-100 dark:text-slate-300 font-medium text-sm md:text-base">
+                    Completed Projects
+                </div>
+            </div>
+
+            <!-- Stat 3 -->
+            <div class="text-center px-4 scroll-reveal delay-300">
+                <div class="text-4xl md:text-5xl font-display font-bold text-white mb-2">
+                    150<span class="text-cyan-300 dark:text-cyan-400">+</span>
+                </div>
+                <div class="text-blue-100 dark:text-slate-300 font-medium text-sm md:text-base">
+                    Active Business Clients
+                </div>
+            </div>
+
+            <!-- Stat 4 -->
+            <div class="text-center px-4 scroll-reveal delay-400">
+                <div class="text-4xl md:text-5xl font-display font-bold text-white mb-2">
+                    &lt; 1 Hour
+                </div>
+                <div class="text-blue-100 dark:text-slate-300 font-medium text-sm md:text-base">
+                    SLA Response Time
+                </div>
+            </div>
+
+        </div>
+</div>
+</section>
+
+    <!-- Offerings -->
+    <section id="services" class="py-16 md:py-20 lg:py-24 bg-gray-50 dark:bg-slate-900/50 relative">
+    <!-- Decorative -->
+    <div class="absolute top-0 right-0 w-[500px] h-[500px] bg-blue-50/50 dark:bg-blue-900/10 rounded-full blur-3xl pointer-events-none -mr-40 -mt-40"></div>
+
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8 relative z-10">
+    <div class="w-full mb-12 md:mb-16 lg:mb-20 text-center animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        Our Infrastructure Services
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            Our Expertise
+        </p>
+    
+            <div class="mt-6">
+            End-to-end network solutions designed for high reliability, security, and scalability.
+        </div>
+    </div>
+
+
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-100">
+    <!-- Icon -->
+                    <div class="w-14 h-14 bg-blue-50 dark:bg-slate-800 rounded-xl flex items-center justify-center text-blue-600 dark:text-cyan-400 mb-6 border border-blue-100 dark:border-slate-700">
+                                                    <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" /></svg>
+                                            </div>
+
+                    <!-- Content -->
+                    <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-3">
+                        <span x-text="lang === 'id' ? 'Instalasi Jaringan LAN' : 'LAN Network Installation'"></span>
+                    </h3>
+                    <p class="text-gray-600 dark:text-gray-400 mb-6 flex-grow">
+                        <span x-text="lang === 'id' ? 'Desain dan instalasi jaringan lokal (LAN) berkecepatan tinggi untuk kantor dan gedung komersial.' : 'High-speed local area network (LAN) design and installation for offices and commercial buildings.'"></span>
+                    </p>
+
+                    <!-- Key Benefits -->
+                    <ul class="space-y-2 mb-8">
+                        <template x-if="lang === 'id'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Koneksi Gigabyte
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Topologi Efisien
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Kabel Tersertifikasi
+                                </li>
+                                                    </template>
+                        <template x-if="lang === 'en'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Gigabit Connection
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Efficient Topology
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Certified Cables
+                                </li>
+                                                    </template>
+                    </ul>
+
+                    <!-- Action -->
+                    <a href="#contact" class="inline-flex items-center text-sm font-semibold text-blue-600 dark:text-cyan-400 hover:text-blue-700 dark:hover:text-cyan-300 transition-colors mt-auto group">
+                        Learn More
+                        <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                    </a>
+</div>
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-200">
+    <!-- Icon -->
+                    <div class="w-14 h-14 bg-blue-50 dark:bg-slate-800 rounded-xl flex items-center justify-center text-blue-600 dark:text-cyan-400 mb-6 border border-blue-100 dark:border-slate-700">
+                                                    <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" /></svg>
+                                            </div>
+
+                    <!-- Content -->
+                    <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-3">
+                        <span x-text="lang === 'id' ? 'Sistem Kabel Terstruktur' : 'Structured Cabling'"></span>
+                    </h3>
+                    <p class="text-gray-600 dark:text-gray-400 mb-6 flex-grow">
+                        <span x-text="lang === 'id' ? 'Penataan infrastruktur kabel rapi dan terorganisir untuk meminimalisir gangguan dan memudahkan perawatan.' : 'Neat and organized cable infrastructure arrangement to minimize disruption and facilitate maintenance.'"></span>
+                    </p>
+
+                    <!-- Key Benefits -->
+                    <ul class="space-y-2 mb-8">
+                        <template x-if="lang === 'id'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Pelabelan Sistematis
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Kabel Fiber Optik
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Manajemen Rapi
+                                </li>
+                                                    </template>
+                        <template x-if="lang === 'en'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Systematic Labeling
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Fiber Optic Ready
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Clean Management
+                                </li>
+                                                    </template>
+                    </ul>
+
+                    <!-- Action -->
+                    <a href="#contact" class="inline-flex items-center text-sm font-semibold text-blue-600 dark:text-cyan-400 hover:text-blue-700 dark:hover:text-cyan-300 transition-colors mt-auto group">
+                        Learn More
+                        <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                    </a>
+</div>
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-300">
+    <!-- Icon -->
+                    <div class="w-14 h-14 bg-blue-50 dark:bg-slate-800 rounded-xl flex items-center justify-center text-blue-600 dark:text-cyan-400 mb-6 border border-blue-100 dark:border-slate-700">
+                                                    <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.111 16.404a5.5 5.5 0 017.778 0M12 20h.01m-7.08-7.071c3.904-3.905 10.236-3.905 14.141 0M1.394 9.393c5.857-5.857 15.355-5.857 21.213 0" /></svg>
+                                            </div>
+
+                    <!-- Content -->
+                    <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-3">
+                        <span x-text="lang === 'id' ? 'Optimalisasi WiFi Enterprise' : 'Enterprise WiFi Optimization'"></span>
+                    </h3>
+                    <p class="text-gray-600 dark:text-gray-400 mb-6 flex-grow">
+                        <span x-text="lang === 'id' ? 'Distribusi sinyal WiFi menyeluruh tanpa blank spot untuk hotel, vila, dan restoran.' : 'Comprehensive WiFi signal distribution without blank spots for hotels, villas, and restaurants.'"></span>
+                    </p>
+
+                    <!-- Key Benefits -->
+                    <ul class="space-y-2 mb-8">
+                        <template x-if="lang === 'id'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Seamless Roaming
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Bandwidth Management
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Guest Portal / Radius
+                                </li>
+                                                    </template>
+                        <template x-if="lang === 'en'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Seamless Roaming
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Bandwidth Management
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Guest Portal / Radius
+                                </li>
+                                                    </template>
+                    </ul>
+
+                    <!-- Action -->
+                    <a href="#contact" class="inline-flex items-center text-sm font-semibold text-blue-600 dark:text-cyan-400 hover:text-blue-700 dark:hover:text-cyan-300 transition-colors mt-auto group">
+                        Learn More
+                        <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                    </a>
+</div>
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-100">
+    <!-- Icon -->
+                    <div class="w-14 h-14 bg-blue-50 dark:bg-slate-800 rounded-xl flex items-center justify-center text-blue-600 dark:text-cyan-400 mb-6 border border-blue-100 dark:border-slate-700">
+                                                    <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" /></svg>
+                                            </div>
+
+                    <!-- Content -->
+                    <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-3">
+                        <span x-text="lang === 'id' ? 'Pemeliharaan Jaringan' : 'Network Maintenance'"></span>
+                    </h3>
+                    <p class="text-gray-600 dark:text-gray-400 mb-6 flex-grow">
+                        <span x-text="lang === 'id' ? 'Pemantauan proaktif dan perbaikan cepat untuk memastikan jaringan bisnis Anda tidak pernah terputus.' : 'Proactive monitoring and rapid repair to ensure your business network never goes down.'"></span>
+                    </p>
+
+                    <!-- Key Benefits -->
+                    <ul class="space-y-2 mb-8">
+                        <template x-if="lang === 'id'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Monitoring 24/7
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Pembaruan Keamanan
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Dukungan Prioritas
+                                </li>
+                                                    </template>
+                        <template x-if="lang === 'en'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    24/7 Monitoring
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Security Updates
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Priority Support
+                                </li>
+                                                    </template>
+                    </ul>
+
+                    <!-- Action -->
+                    <a href="#contact" class="inline-flex items-center text-sm font-semibold text-blue-600 dark:text-cyan-400 hover:text-blue-700 dark:hover:text-cyan-300 transition-colors mt-auto group">
+                        Learn More
+                        <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                    </a>
+</div>
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-200">
+    <!-- Icon -->
+                    <div class="w-14 h-14 bg-blue-50 dark:bg-slate-800 rounded-xl flex items-center justify-center text-blue-600 dark:text-cyan-400 mb-6 border border-blue-100 dark:border-slate-700">
+                                                    <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 12h14M5 12a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v4a2 2 0 01-2 2M5 12a2 2 0 00-2 2v4a2 2 0 002 2h14a2 2 0 002-2v-4a2 2 0 00-2-2m-2-4h.01M17 16h.01" /></svg>
+                                            </div>
+
+                    <!-- Content -->
+                    <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-3">
+                        <span x-text="lang === 'id' ? 'Instalasi Server Rack' : 'Server Rack Installation'"></span>
+                    </h3>
+                    <p class="text-gray-600 dark:text-gray-400 mb-6 flex-grow">
+                        <span x-text="lang === 'id' ? 'Pemasangan rak server profesional dengan manajemen suhu dan keamanan peralatan standar data center.' : 'Professional server rack installation with temperature management and data center standard equipment security.'"></span>
+                    </p>
+
+                    <!-- Key Benefits -->
+                    <ul class="space-y-2 mb-8">
+                        <template x-if="lang === 'id'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Desain Airflow
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Manajemen Daya (UPS)
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Tata Letak Rapi
+                                </li>
+                                                    </template>
+                        <template x-if="lang === 'en'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Airflow Design
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Power Management (UPS)
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Neat Layout
+                                </li>
+                                                    </template>
+                    </ul>
+
+                    <!-- Action -->
+                    <a href="#contact" class="inline-flex items-center text-sm font-semibold text-blue-600 dark:text-cyan-400 hover:text-blue-700 dark:hover:text-cyan-300 transition-colors mt-auto group">
+                        Learn More
+                        <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                    </a>
+</div>
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-300">
+    <!-- Icon -->
+                    <div class="w-14 h-14 bg-blue-50 dark:bg-slate-800 rounded-xl flex items-center justify-center text-blue-600 dark:text-cyan-400 mb-6 border border-blue-100 dark:border-slate-700">
+                                                    <svg class="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" /></svg>
+                                            </div>
+
+                    <!-- Content -->
+                    <h3 class="text-xl font-display font-bold text-gray-900 dark:text-white mb-3">
+                        <span x-text="lang === 'id' ? 'Audit &amp; Analisis Jaringan' : 'Network Audit &amp; Analysis'"></span>
+                    </h3>
+                    <p class="text-gray-600 dark:text-gray-400 mb-6 flex-grow">
+                        <span x-text="lang === 'id' ? 'Evaluasi mendalam terhadap performa dan keamanan jaringan yang sudah ada dengan rekomendasi peningkatan.' : 'In-depth evaluation of existing network performance and security with upgrade recommendations.'"></span>
+                    </p>
+
+                    <!-- Key Benefits -->
+                    <ul class="space-y-2 mb-8">
+                        <template x-if="lang === 'id'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Laporan Performa
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Uji Keamanan
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Saran Peningkatan
+                                </li>
+                                                    </template>
+                        <template x-if="lang === 'en'">
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Performance Report
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Security Testing
+                                </li>
+                                                            <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
+                                    <svg class="w-4 h-4 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                                    Upgrade Suggestions
+                                </li>
+                                                    </template>
+                    </ul>
+
+                    <!-- Action -->
+                    <a href="#contact" class="inline-flex items-center text-sm font-semibold text-blue-600 dark:text-cyan-400 hover:text-blue-700 dark:hover:text-cyan-300 transition-colors mt-auto group">
+                        Learn More
+                        <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                    </a>
+</div>
+                    </div>
+</div>
+</section>
+    
+    <!-- Coverage & Partners -->
+    <section class="py-24 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-800">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="grid lg:grid-cols-2 gap-16 items-center">
+            
+            <!-- Left: Content -->
+            <div class="scroll-reveal">
+                <div class="w-full mb-12 md:mb-16 lg:mb-20 text-left animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        Our Service Coverage
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            Service Area
+        </p>
+    
+            <div class="mt-6">
+            Our team of technicians is ready to be deployed across Bali to build and maintain your business network infrastructure to the highest enterprise standards.
+        </div>
+    </div>
+
+
+                <div class="mt-8 grid grid-cols-2 sm:grid-cols-3 gap-4">
+                                            <div class="flex items-center gap-2 p-3 bg-white dark:bg-slate-800 rounded-xl border border-gray-100 dark:border-slate-700 shadow-sm">
+                            <div class="w-8 h-8 rounded-lg bg-blue-50 dark:bg-blue-900/30 flex items-center justify-center shrink-0">
+                                <svg class="w-4 h-4 text-blue-600 dark:text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                </svg>
+                            </div>
+                            <span class="font-medium text-gray-700 dark:text-gray-300">Denpasar</span>
+                        </div>
+                                            <div class="flex items-center gap-2 p-3 bg-white dark:bg-slate-800 rounded-xl border border-gray-100 dark:border-slate-700 shadow-sm">
+                            <div class="w-8 h-8 rounded-lg bg-blue-50 dark:bg-blue-900/30 flex items-center justify-center shrink-0">
+                                <svg class="w-4 h-4 text-blue-600 dark:text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                </svg>
+                            </div>
+                            <span class="font-medium text-gray-700 dark:text-gray-300">Badung</span>
+                        </div>
+                                            <div class="flex items-center gap-2 p-3 bg-white dark:bg-slate-800 rounded-xl border border-gray-100 dark:border-slate-700 shadow-sm">
+                            <div class="w-8 h-8 rounded-lg bg-blue-50 dark:bg-blue-900/30 flex items-center justify-center shrink-0">
+                                <svg class="w-4 h-4 text-blue-600 dark:text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                </svg>
+                            </div>
+                            <span class="font-medium text-gray-700 dark:text-gray-300">Gianyar</span>
+                        </div>
+                                            <div class="flex items-center gap-2 p-3 bg-white dark:bg-slate-800 rounded-xl border border-gray-100 dark:border-slate-700 shadow-sm">
+                            <div class="w-8 h-8 rounded-lg bg-blue-50 dark:bg-blue-900/30 flex items-center justify-center shrink-0">
+                                <svg class="w-4 h-4 text-blue-600 dark:text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                </svg>
+                            </div>
+                            <span class="font-medium text-gray-700 dark:text-gray-300">Tabanan</span>
+                        </div>
+                                            <div class="flex items-center gap-2 p-3 bg-white dark:bg-slate-800 rounded-xl border border-gray-100 dark:border-slate-700 shadow-sm">
+                            <div class="w-8 h-8 rounded-lg bg-blue-50 dark:bg-blue-900/30 flex items-center justify-center shrink-0">
+                                <svg class="w-4 h-4 text-blue-600 dark:text-cyan-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                                </svg>
+                            </div>
+                            <span class="font-medium text-gray-700 dark:text-gray-300">Seluruh Bali (Entire Bali)</span>
+                        </div>
+                                    </div>
+            </div>
+
+            <!-- Right: Visual Map Indicator -->
+            <div class="relative scroll-reveal delay-200 bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700 p-8 shadow-xl flex items-center justify-center min-h-[400px]">
+                <!-- Abstract Map Representation -->
+                <div class="relative w-full h-full max-w-sm aspect-square bg-blue-50 dark:bg-blue-900/10 rounded-full flex items-center justify-center border border-blue-100 dark:border-blue-800/50">
+                    
+                    <!-- Center Pulse -->
+                    <div class="absolute w-4 h-4 bg-blue-600 dark:bg-cyan-400 rounded-full z-10">
+                        <div class="absolute inset-0 bg-blue-600 dark:bg-cyan-400 rounded-full animate-ping opacity-75"></div>
+                    </div>
+                    
+                    <!-- Concentric Circles -->
+                    <div class="absolute w-1/3 h-1/3 border border-blue-200 dark:border-blue-800/50 rounded-full"></div>
+                    <div class="absolute w-2/3 h-2/3 border border-blue-200 dark:border-blue-800/50 rounded-full"></div>
+                    <div class="absolute w-full h-full border border-blue-200 dark:border-blue-800/50 rounded-full"></div>
+
+                    <!-- Pointers -->
+                    <div class="absolute top-1/4 left-1/4 w-3 h-3 bg-blue-400 dark:bg-cyan-600 rounded-full"></div>
+                    <div class="absolute bottom-1/3 right-1/4 w-3 h-3 bg-blue-400 dark:bg-cyan-600 rounded-full"></div>
+                    <div class="absolute top-1/2 right-1/6 w-2 h-2 bg-blue-300 dark:bg-cyan-700 rounded-full"></div>
+
+                </div>
+            </div>
+
+        </div>
+</div>
+</section>
+    <section class="py-16 md:py-20 lg:py-24 bg-white dark:bg-slate-900 border-t border-gray-100 dark:border-slate-800">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="text-center mb-12 scroll-reveal">
+            <h2 class="text-[32px] md:text-[42px] font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4 ">Technologies We Use</h2>
+            <p class="text-base md:text-lg text-gray-600 dark:text-gray-400 ">Partnering with leading global networking brands to deliver uncompromising quality.</p>
+        </div>
+
+        <!-- Tech Partner Grid -->
+        <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-8 items-center justify-items-center opacity-70 grayscale hover:grayscale-0 transition-all duration-300 scroll-reveal delay-100">
+                            <div class="w-24 h-12 flex items-center justify-center" title="Ruijie">
+                    <!-- Placeholder for actual logos, currently showing name -->
+                    <span class="font-display font-bold text-lg text-gray-400 dark:text-slate-500 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">Ruijie</span>
+                </div>
+                            <div class="w-24 h-12 flex items-center justify-center" title="MikroTik">
+                    <!-- Placeholder for actual logos, currently showing name -->
+                    <span class="font-display font-bold text-lg text-gray-400 dark:text-slate-500 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">MikroTik</span>
+                </div>
+                            <div class="w-24 h-12 flex items-center justify-center" title="TP-Link">
+                    <!-- Placeholder for actual logos, currently showing name -->
+                    <span class="font-display font-bold text-lg text-gray-400 dark:text-slate-500 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">TP-Link</span>
+                </div>
+                            <div class="w-24 h-12 flex items-center justify-center" title="Cisco">
+                    <!-- Placeholder for actual logos, currently showing name -->
+                    <span class="font-display font-bold text-lg text-gray-400 dark:text-slate-500 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">Cisco</span>
+                </div>
+                            <div class="w-24 h-12 flex items-center justify-center" title="Ubiquiti">
+                    <!-- Placeholder for actual logos, currently showing name -->
+                    <span class="font-display font-bold text-lg text-gray-400 dark:text-slate-500 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">Ubiquiti</span>
+                </div>
+                            <div class="w-24 h-12 flex items-center justify-center" title="Grandstream">
+                    <!-- Placeholder for actual logos, currently showing name -->
+                    <span class="font-display font-bold text-lg text-gray-400 dark:text-slate-500 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">Grandstream</span>
+                </div>
+                            <div class="w-24 h-12 flex items-center justify-center" title="Aruba">
+                    <!-- Placeholder for actual logos, currently showing name -->
+                    <span class="font-display font-bold text-lg text-gray-400 dark:text-slate-500 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">Aruba</span>
+                </div>
+                    </div>
+</div>
+</section>
+
+    <!-- Workflow -->
+    <section class="py-24 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-800">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="w-full mb-12 md:mb-16 lg:mb-20 text-center animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        How We Work
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            Workflow Process
+        </p>
+    
+            <div class="mt-6">
+            Our systematic approach ensures every project is delivered on time, within budget, and exceeds industry standards.
+        </div>
+    </div>
+
+
+        <div class="relative mt-20">
+            <!-- Connecting Line (Desktop) -->
+            <div class="hidden md:block absolute top-12 left-0 w-full h-0.5 bg-gray-200 dark:bg-slate-800" aria-hidden="true"></div>
+
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8 relative">
+                                    <div class="relative scroll-reveal delay-100">
+                        <!-- Number Node -->
+                        <div class="w-24 h-24 mx-auto bg-white dark:bg-slate-800 rounded-2xl shadow-xl border border-gray-100 dark:border-slate-700 flex items-center justify-center relative z-10 group transition-transform hover:-translate-y-2">
+                            <span class="text-4xl font-display font-bold text-transparent bg-clip-text bg-gradient-to-br from-blue-600 to-cyan-400">
+                                01
+                            </span>
+                            
+                            <!-- Arrow to next (except last) -->
+                                                            <div class="hidden md:block absolute top-1/2 -right-12 -translate-y-1/2 text-gray-300 dark:text-slate-600 w-8 h-8">
+                                    <svg fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                                </div>
+                                                    </div>
+
+                        <!-- Content -->
+                        <div class="mt-8 text-center px-2">
+                            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2">
+                                <span x-text="lang === 'id' ? 'Survei &amp; Konsultasi' : 'Survey &amp; Consultation'"></span>
+                            </h3>
+                            <p class="text-sm text-gray-600 dark:text-gray-400">
+                                <span x-text="lang === 'id' ? 'Kami menganalisis lokasi dan memahami kebutuhan spesifik infrastruktur bisnis Anda.' : 'We analyze the location and understand the specific needs of your business infrastructure.'"></span>
+                            </p>
+                        </div>
+                    </div>
+                                    <div class="relative scroll-reveal delay-200">
+                        <!-- Number Node -->
+                        <div class="w-24 h-24 mx-auto bg-white dark:bg-slate-800 rounded-2xl shadow-xl border border-gray-100 dark:border-slate-700 flex items-center justify-center relative z-10 group transition-transform hover:-translate-y-2">
+                            <span class="text-4xl font-display font-bold text-transparent bg-clip-text bg-gradient-to-br from-blue-600 to-cyan-400">
+                                02
+                            </span>
+                            
+                            <!-- Arrow to next (except last) -->
+                                                            <div class="hidden md:block absolute top-1/2 -right-12 -translate-y-1/2 text-gray-300 dark:text-slate-600 w-8 h-8">
+                                    <svg fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                                </div>
+                                                    </div>
+
+                        <!-- Content -->
+                        <div class="mt-8 text-center px-2">
+                            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2">
+                                <span x-text="lang === 'id' ? 'Desain Topologi' : 'Topology Design'"></span>
+                            </h3>
+                            <p class="text-sm text-gray-600 dark:text-gray-400">
+                                <span x-text="lang === 'id' ? 'Merancang cetak biru arsitektur jaringan yang optimal, efisien, dan siap dikembangkan.' : 'Designing an optimal, efficient, and scalable network architecture blueprint.'"></span>
+                            </p>
+                        </div>
+                    </div>
+                                    <div class="relative scroll-reveal delay-300">
+                        <!-- Number Node -->
+                        <div class="w-24 h-24 mx-auto bg-white dark:bg-slate-800 rounded-2xl shadow-xl border border-gray-100 dark:border-slate-700 flex items-center justify-center relative z-10 group transition-transform hover:-translate-y-2">
+                            <span class="text-4xl font-display font-bold text-transparent bg-clip-text bg-gradient-to-br from-blue-600 to-cyan-400">
+                                03
+                            </span>
+                            
+                            <!-- Arrow to next (except last) -->
+                                                            <div class="hidden md:block absolute top-1/2 -right-12 -translate-y-1/2 text-gray-300 dark:text-slate-600 w-8 h-8">
+                                    <svg fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+                                </div>
+                                                    </div>
+
+                        <!-- Content -->
+                        <div class="mt-8 text-center px-2">
+                            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2">
+                                <span x-text="lang === 'id' ? 'Instalasi Sistem' : 'System Installation'"></span>
+                            </h3>
+                            <p class="text-sm text-gray-600 dark:text-gray-400">
+                                <span x-text="lang === 'id' ? 'Eksekusi profesional oleh teknisi berpengalaman dengan standar kerapian industri tertinggi.' : 'Professional execution by experienced technicians with the highest industry standards of neatness.'"></span>
+                            </p>
+                        </div>
+                    </div>
+                                    <div class="relative scroll-reveal delay-400">
+                        <!-- Number Node -->
+                        <div class="w-24 h-24 mx-auto bg-white dark:bg-slate-800 rounded-2xl shadow-xl border border-gray-100 dark:border-slate-700 flex items-center justify-center relative z-10 group transition-transform hover:-translate-y-2">
+                            <span class="text-4xl font-display font-bold text-transparent bg-clip-text bg-gradient-to-br from-blue-600 to-cyan-400">
+                                04
+                            </span>
+                            
+                            <!-- Arrow to next (except last) -->
+                                                    </div>
+
+                        <!-- Content -->
+                        <div class="mt-8 text-center px-2">
+                            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2">
+                                <span x-text="lang === 'id' ? 'Testing &amp; Dukungan' : 'Testing &amp; Support'"></span>
+                            </h3>
+                            <p class="text-sm text-gray-600 dark:text-gray-400">
+                                <span x-text="lang === 'id' ? 'Pengujian beban jaringan menyeluruh dan garansi layanan berkelanjutan paska pemasangan.' : 'Comprehensive network load testing and ongoing post-installation service warranty.'"></span>
+                            </p>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+</div>
+</section>
+
+    <!-- Social Proof -->
+    <section id="portfolio" class="py-16 md:py-20 lg:py-24 bg-white dark:bg-slate-900">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="w-full mb-12 md:mb-16 lg:mb-20 text-center animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        Completed Projects
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            Portfolio
+        </p>
+    
+            <div class="mt-6">
+            See how we have transformed IT infrastructure across various industries, from luxury villas to corporate office spaces.
+        </div>
+    </div>
+
+
+        <div class="grid md:grid-cols-2 gap-8 mt-16">
+                            <div class="group relative bg-white dark:bg-slate-800 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5 border border-gray-100 dark:border-slate-700/50 scroll-reveal flex flex-col h-full delay-100">
+                    <!-- Image Area -->
+                    <div class="aspect-[4/3] overflow-hidden relative">
+                        <div class="absolute inset-0 bg-blue-900/20 group-hover:bg-transparent transition-colors z-10"></div>
+                        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=800&auto=format&fit=crop" 
+                             alt="Luxury Villa Network Coverage" 
+                             class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                             loading="lazy" />
+                             
+                        <!-- Category Tag -->
+                        <div class="absolute top-4 left-4 z-20">
+                            <span class="px-3 py-1 bg-white/90 dark:bg-slate-900/90 backdrop-blur-sm text-xs font-bold uppercase tracking-wider rounded-full text-blue-600 dark:text-cyan-400">
+                                Villa
+                            </span>
+                        </div>
+                    </div>
+
+                    <!-- Content Area -->
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-blue-600 dark:group-hover:text-cyan-400 transition-colors">
+                            Luxury Villa Network Coverage
+                        </h3>
+                        <p class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-4 flex items-center gap-1.5">
+                            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                            Private Villa, Canggu
+                        </p>
+                        
+                        <div class="space-y-3 pt-4 border-t border-gray-100 dark:border-slate-700">
+                            <div>
+                                <span class="text-xs font-bold text-gray-900 dark:text-white uppercase tracking-wider block mb-1">Problem:</span>
+                                <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-1">Dead zones and weak WiFi signals in a large villa complex.</p>
+                            </div>
+                            <div>
+                                <span class="text-xs font-bold text-gray-900 dark:text-white uppercase tracking-wider block mb-1">Result:</span>
+                                <p class="text-sm text-emerald-600 dark:text-emerald-400 line-clamp-1 font-medium">100% coverage with stable high-speed access across the property.</p>
+                            </div>
+                        </div>
+
+                        <!-- Technologies Used -->
+                        <div class="mt-6 flex flex-wrap gap-2">
+                                                            <span class="px-2.5 py-1 bg-gray-100 dark:bg-slate-700 text-xs font-medium text-gray-600 dark:text-gray-300 rounded-md">
+                                    Ubiquiti UniFi
+                                </span>
+                                                            <span class="px-2.5 py-1 bg-gray-100 dark:bg-slate-700 text-xs font-medium text-gray-600 dark:text-gray-300 rounded-md">
+                                    Fiber Optic
+                                </span>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="group relative bg-white dark:bg-slate-800 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5 border border-gray-100 dark:border-slate-700/50 scroll-reveal flex flex-col h-full delay-200">
+                    <!-- Image Area -->
+                    <div class="aspect-[4/3] overflow-hidden relative">
+                        <div class="absolute inset-0 bg-blue-900/20 group-hover:bg-transparent transition-colors z-10"></div>
+                        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=800&auto=format&fit=crop" 
+                             alt="Corporate Office IT Infrastructure" 
+                             class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                             loading="lazy" />
+                             
+                        <!-- Category Tag -->
+                        <div class="absolute top-4 left-4 z-20">
+                            <span class="px-3 py-1 bg-white/90 dark:bg-slate-900/90 backdrop-blur-sm text-xs font-bold uppercase tracking-wider rounded-full text-blue-600 dark:text-cyan-400">
+                                Office
+                            </span>
+                        </div>
+                    </div>
+
+                    <!-- Content Area -->
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-blue-600 dark:group-hover:text-cyan-400 transition-colors">
+                            Corporate Office IT Infrastructure
+                        </h3>
+                        <p class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-4 flex items-center gap-1.5">
+                            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                            Tech Startup, Denpasar
+                        </p>
+                        
+                        <div class="space-y-3 pt-4 border-t border-gray-100 dark:border-slate-700">
+                            <div>
+                                <span class="text-xs font-bold text-gray-900 dark:text-white uppercase tracking-wider block mb-1">Problem:</span>
+                                <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-1">Messy cabling causing frequent network downtime and difficult maintenance.</p>
+                            </div>
+                            <div>
+                                <span class="text-xs font-bold text-gray-900 dark:text-white uppercase tracking-wider block mb-1">Result:</span>
+                                <p class="text-sm text-emerald-600 dark:text-emerald-400 line-clamp-1 font-medium">Zero network interruptions and highly organized IT management.</p>
+                            </div>
+                        </div>
+
+                        <!-- Technologies Used -->
+                        <div class="mt-6 flex flex-wrap gap-2">
+                                                            <span class="px-2.5 py-1 bg-gray-100 dark:bg-slate-700 text-xs font-medium text-gray-600 dark:text-gray-300 rounded-md">
+                                    Cisco
+                                </span>
+                                                            <span class="px-2.5 py-1 bg-gray-100 dark:bg-slate-700 text-xs font-medium text-gray-600 dark:text-gray-300 rounded-md">
+                                    Cat6A Cables
+                                </span>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="group relative bg-white dark:bg-slate-800 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5 border border-gray-100 dark:border-slate-700/50 scroll-reveal flex flex-col h-full delay-100">
+                    <!-- Image Area -->
+                    <div class="aspect-[4/3] overflow-hidden relative">
+                        <div class="absolute inset-0 bg-blue-900/20 group-hover:bg-transparent transition-colors z-10"></div>
+                        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=800&auto=format&fit=crop" 
+                             alt="Boutique Hotel WiFi Upgrade" 
+                             class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                             loading="lazy" />
+                             
+                        <!-- Category Tag -->
+                        <div class="absolute top-4 left-4 z-20">
+                            <span class="px-3 py-1 bg-white/90 dark:bg-slate-900/90 backdrop-blur-sm text-xs font-bold uppercase tracking-wider rounded-full text-blue-600 dark:text-cyan-400">
+                                Hotel
+                            </span>
+                        </div>
+                    </div>
+
+                    <!-- Content Area -->
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-blue-600 dark:group-hover:text-cyan-400 transition-colors">
+                            Boutique Hotel WiFi Upgrade
+                        </h3>
+                        <p class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-4 flex items-center gap-1.5">
+                            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                            Resort &amp; Spa, Ubud
+                        </p>
+                        
+                        <div class="space-y-3 pt-4 border-t border-gray-100 dark:border-slate-700">
+                            <div>
+                                <span class="text-xs font-bold text-gray-900 dark:text-white uppercase tracking-wider block mb-1">Problem:</span>
+                                <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-1">Guests complaining about slow internet during peak hours.</p>
+                            </div>
+                            <div>
+                                <span class="text-xs font-bold text-gray-900 dark:text-white uppercase tracking-wider block mb-1">Result:</span>
+                                <p class="text-sm text-emerald-600 dark:text-emerald-400 line-clamp-1 font-medium">Significantly improved guest satisfaction scores for internet connectivity.</p>
+                            </div>
+                        </div>
+
+                        <!-- Technologies Used -->
+                        <div class="mt-6 flex flex-wrap gap-2">
+                                                            <span class="px-2.5 py-1 bg-gray-100 dark:bg-slate-700 text-xs font-medium text-gray-600 dark:text-gray-300 rounded-md">
+                                    Ruijie Reyee
+                                </span>
+                                                            <span class="px-2.5 py-1 bg-gray-100 dark:bg-slate-700 text-xs font-medium text-gray-600 dark:text-gray-300 rounded-md">
+                                    MikroTik
+                                </span>
+                                                    </div>
+                    </div>
+                </div>
+                            <div class="group relative bg-white dark:bg-slate-800 rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5 border border-gray-100 dark:border-slate-700/50 scroll-reveal flex flex-col h-full delay-200">
+                    <!-- Image Area -->
+                    <div class="aspect-[4/3] overflow-hidden relative">
+                        <div class="absolute inset-0 bg-blue-900/20 group-hover:bg-transparent transition-colors z-10"></div>
+                        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=800&auto=format&fit=crop" 
+                             alt="Restaurant POS Network" 
+                             class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                             loading="lazy" />
+                             
+                        <!-- Category Tag -->
+                        <div class="absolute top-4 left-4 z-20">
+                            <span class="px-3 py-1 bg-white/90 dark:bg-slate-900/90 backdrop-blur-sm text-xs font-bold uppercase tracking-wider rounded-full text-blue-600 dark:text-cyan-400">
+                                Restaurant
+                            </span>
+                        </div>
+                    </div>
+
+                    <!-- Content Area -->
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-blue-600 dark:group-hover:text-cyan-400 transition-colors">
+                            Restaurant POS Network
+                        </h3>
+                        <p class="text-sm font-medium text-gray-500 dark:text-gray-400 mb-4 flex items-center gap-1.5">
+                            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                            Fine Dining, Seminyak
+                        </p>
+                        
+                        <div class="space-y-3 pt-4 border-t border-gray-100 dark:border-slate-700">
+                            <div>
+                                <span class="text-xs font-bold text-gray-900 dark:text-white uppercase tracking-wider block mb-1">Problem:</span>
+                                <p class="text-sm text-gray-600 dark:text-gray-400 line-clamp-1">Point of Sale (POS) system losing connection to kitchen printers.</p>
+                            </div>
+                            <div>
+                                <span class="text-xs font-bold text-gray-900 dark:text-white uppercase tracking-wider block mb-1">Result:</span>
+                                <p class="text-sm text-emerald-600 dark:text-emerald-400 line-clamp-1 font-medium">Flawless order processing with 100% uptime during busy hours.</p>
+                            </div>
+                        </div>
+
+                        <!-- Technologies Used -->
+                        <div class="mt-6 flex flex-wrap gap-2">
+                                                            <span class="px-2.5 py-1 bg-gray-100 dark:bg-slate-700 text-xs font-medium text-gray-600 dark:text-gray-300 rounded-md">
+                                    TP-Link Omada
+                                </span>
+                                                            <span class="px-2.5 py-1 bg-gray-100 dark:bg-slate-700 text-xs font-medium text-gray-600 dark:text-gray-300 rounded-md">
+                                    Grandstream
+                                </span>
+                                                    </div>
+                    </div>
+                </div>
+                    </div>
+        
+        <div class="mt-12 text-center scroll-reveal delay-300">
+            <a href="#" class="inline-flex items-center justify-center gap-2 font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-slate-900 disabled:opacity-50 disabled:cursor-not-allowed bg-transparent text-blue-600 border border-blue-600 hover:bg-blue-50 focus:ring-blue-500 dark:text-cyan-400 dark:border-cyan-400 dark:hover:bg-cyan-950 dark:focus:ring-cyan-500 hover:-translate-y-0.5 h-11 px-5 text-base " >
+                View All Projects
+    </a>
+        </div>
+</div>
+</section>
+    <section id="testimonials" class="py-16 md:py-20 lg:py-24 bg-white dark:bg-slate-900 border-t border-gray-100 dark:border-slate-800">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="w-full mb-12 md:mb-16 lg:mb-20 text-center animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        What Our Clients Say
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            Testimonials
+        </p>
+    
+            <div class="mt-6">
+            Do not just take our word for it. Hear directly from the businesses that rely on our network infrastructure.
+        </div>
+    </div>
+
+
+        <div class="grid md:grid-cols-3 gap-8 mt-16">
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-100">
+    <!-- Quote Icon -->
+                    <div class="mb-6 text-blue-100 dark:text-blue-900/30">
+                        <svg class="w-10 h-10" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
+                        </svg>
+                    </div>
+
+                    <!-- Quote Text -->
+                    <p class="text-gray-600 dark:text-gray-300 italic mb-8 flex-grow">
+                        "<span x-text="lang === 'id' ? 'Infrastruktur jaringan kami sering bermasalah sebelumnya. Sejak Jiwa Cyber Network mengambil alih, tidak pernah ada keluhan koneksi dari tamu hotel kami.' : 'Our network infrastructure was frequently problematic before. Since Jiwa Cyber Network took over, we have never had a connection complaint from our hotel guests.'"></span>"
+                    </p>
+
+                    <!-- Author -->
+                    <div class="flex items-center gap-4 mt-auto">
+                        <div class="w-12 h-12 rounded-full bg-gray-200 dark:bg-slate-700 overflow-hidden shrink-0">
+                            <!-- Placeholder avatar -->
+                            <div class="w-full h-full bg-gradient-to-br from-blue-100 to-cyan-100 dark:from-slate-700 dark:to-slate-600 flex items-center justify-center text-blue-600 dark:text-cyan-400 font-bold font-display">
+                                B
+                            </div>
+                        </div>
+                        <div>
+                            <h4 class="font-bold text-gray-900 dark:text-white">Budi Santoso</h4>
+                            <p class="text-xs text-gray-500 dark:text-gray-400 font-medium">Operations Manager, The Grand Bali Resort</p>
+                        </div>
+                    </div>
+</div>
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-200">
+    <!-- Quote Icon -->
+                    <div class="mb-6 text-blue-100 dark:text-blue-900/30">
+                        <svg class="w-10 h-10" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
+                        </svg>
+                    </div>
+
+                    <!-- Quote Text -->
+                    <p class="text-gray-600 dark:text-gray-300 italic mb-8 flex-grow">
+                        "<span x-text="lang === 'id' ? 'Tim yang sangat profesional. Instalasi kabel sangat rapi dan jaringan WiFi mampu menangani ratusan pengguna tanpa masalah latensi.' : 'Extremely professional team. The cable installation is very neat and the WiFi network can handle hundreds of users without latency issues.'"></span>"
+                    </p>
+
+                    <!-- Author -->
+                    <div class="flex items-center gap-4 mt-auto">
+                        <div class="w-12 h-12 rounded-full bg-gray-200 dark:bg-slate-700 overflow-hidden shrink-0">
+                            <!-- Placeholder avatar -->
+                            <div class="w-full h-full bg-gradient-to-br from-blue-100 to-cyan-100 dark:from-slate-700 dark:to-slate-600 flex items-center justify-center text-blue-600 dark:text-cyan-400 font-bold font-display">
+                                S
+                            </div>
+                        </div>
+                        <div>
+                            <h4 class="font-bold text-gray-900 dark:text-white">Sarah Johnson</h4>
+                            <p class="text-xs text-gray-500 dark:text-gray-400 font-medium">Founder, Digital Hub Coworking</p>
+                        </div>
+                    </div>
+</div>
+                            <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 flex flex-col h-full scroll-reveal delay-300">
+    <!-- Quote Icon -->
+                    <div class="mb-6 text-blue-100 dark:text-blue-900/30">
+                        <svg class="w-10 h-10" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z" />
+                        </svg>
+                    </div>
+
+                    <!-- Quote Text -->
+                    <p class="text-gray-600 dark:text-gray-300 italic mb-8 flex-grow">
+                        "<span x-text="lang === 'id' ? 'Respon yang sangat cepat ketika kami membutuhkan bantuan. Mereka tidak hanya menginstal, tapi benar-benar memelihara ekosistem jaringan kami.' : 'Very fast response when we needed help. They do not just install, but truly maintain our entire network ecosystem.'"></span>"
+                    </p>
+
+                    <!-- Author -->
+                    <div class="flex items-center gap-4 mt-auto">
+                        <div class="w-12 h-12 rounded-full bg-gray-200 dark:bg-slate-700 overflow-hidden shrink-0">
+                            <!-- Placeholder avatar -->
+                            <div class="w-full h-full bg-gradient-to-br from-blue-100 to-cyan-100 dark:from-slate-700 dark:to-slate-600 flex items-center justify-center text-blue-600 dark:text-cyan-400 font-bold font-display">
+                                M
+                            </div>
+                        </div>
+                        <div>
+                            <h4 class="font-bold text-gray-900 dark:text-white">Made Wijaya</h4>
+                            <p class="text-xs text-gray-500 dark:text-gray-400 font-medium">IT Director, Bali Corporate Group</p>
+                        </div>
+                    </div>
+</div>
+                    </div>
+</div>
+</section>
+
+    <!-- Conversion & Support -->
+    <section id="faq" class="py-16 md:py-20 lg:py-24 bg-gray-50 dark:bg-slate-900 border-t border-gray-100 dark:border-slate-800" x-data="{ activeFaq: null }">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8 max-w-4xl">
+    <div class="w-full mb-12 md:mb-16 lg:mb-20 text-center animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        Frequently Asked Questions
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            FAQ
+        </p>
+    
+            <div class="mt-6">
+            Find quick answers regarding our network installation and maintenance services.
+        </div>
+    </div>
+
+
+        <div class="mt-16 space-y-4 scroll-reveal delay-200">
+                            <div class="bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-xl overflow-hidden shadow-sm transition-all duration-300"
+                     :class="{ 'ring-2 ring-blue-500/20 border-blue-500/30': activeFaq === 0 }">
+                    
+                    <button @click="activeFaq = activeFaq === 0 ? null : 0" 
+                            class="w-full text-left px-6 py-4 flex items-center justify-between focus:outline-none focus-visible:bg-gray-50 dark:focus-visible:bg-slate-700"
+                            :aria-expanded="activeFaq === 0">
+                        <span class="font-bold text-gray-900 dark:text-white pr-8">
+                            <span x-text="lang === 'id' ? 'Berapa lama proses instalasi jaringan untuk kantor baru?' : 'How long does the network installation process take for a new office?'"></span>
+                        </span>
+                        
+                        <!-- Plus/Minus Icon -->
+                        <span class="shrink-0 w-8 h-8 rounded-full bg-gray-100 dark:bg-slate-700 flex items-center justify-center text-blue-600 dark:text-cyan-400 transition-transform duration-300"
+                              :class="{ 'rotate-180 bg-blue-100 dark:bg-blue-900/30': activeFaq === 0 }">
+                            <svg x-show="activeFaq !== 0" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" /></svg>
+                            <svg x-show="activeFaq === 0" style="display: none;" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" /></svg>
+                        </span>
+                    </button>
+                    
+                    <div x-show="activeFaq === 0" 
+                         x-transition:enter="transition ease-out duration-200"
+                         x-transition:enter-start="opacity-0 -translate-y-2"
+                         x-transition:enter-end="opacity-100 translate-y-0"
+                         x-transition:leave="transition ease-in duration-150"
+                         x-transition:leave-start="opacity-100 translate-y-0"
+                         x-transition:leave-end="opacity-0 -translate-y-2"
+                         style="display: none;">
+                        <div class="px-6 pb-5 text-gray-600 dark:text-gray-400 text-sm leading-relaxed border-t border-gray-100 dark:border-slate-700/50 pt-4 mt-2">
+                            <span x-text="lang === 'id' ? 'Waktu instalasi bergantung pada ukuran dan kompleksitas lokasi. Umumnya, untuk kantor ukuran menengah (sekitar 20-50 karyawan), proses dari desain hingga pengujian selesai memakan waktu 3-7 hari kerja.' : 'Installation time depends on the size and complexity of the location. Generally, for a medium-sized office (around 20-50 employees), the process from design to final testing takes 3-7 working days.'"></span>
+                        </div>
+                    </div>
+                    
+                </div>
+                            <div class="bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-xl overflow-hidden shadow-sm transition-all duration-300"
+                     :class="{ 'ring-2 ring-blue-500/20 border-blue-500/30': activeFaq === 1 }">
+                    
+                    <button @click="activeFaq = activeFaq === 1 ? null : 1" 
+                            class="w-full text-left px-6 py-4 flex items-center justify-between focus:outline-none focus-visible:bg-gray-50 dark:focus-visible:bg-slate-700"
+                            :aria-expanded="activeFaq === 1">
+                        <span class="font-bold text-gray-900 dark:text-white pr-8">
+                            <span x-text="lang === 'id' ? 'Apakah Anda menyediakan layanan pemeliharaan rutin?' : 'Do you provide routine maintenance services?'"></span>
+                        </span>
+                        
+                        <!-- Plus/Minus Icon -->
+                        <span class="shrink-0 w-8 h-8 rounded-full bg-gray-100 dark:bg-slate-700 flex items-center justify-center text-blue-600 dark:text-cyan-400 transition-transform duration-300"
+                              :class="{ 'rotate-180 bg-blue-100 dark:bg-blue-900/30': activeFaq === 1 }">
+                            <svg x-show="activeFaq !== 1" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" /></svg>
+                            <svg x-show="activeFaq === 1" style="display: none;" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" /></svg>
+                        </span>
+                    </button>
+                    
+                    <div x-show="activeFaq === 1" 
+                         x-transition:enter="transition ease-out duration-200"
+                         x-transition:enter-start="opacity-0 -translate-y-2"
+                         x-transition:enter-end="opacity-100 translate-y-0"
+                         x-transition:leave="transition ease-in duration-150"
+                         x-transition:leave-start="opacity-100 translate-y-0"
+                         x-transition:leave-end="opacity-0 -translate-y-2"
+                         style="display: none;">
+                        <div class="px-6 pb-5 text-gray-600 dark:text-gray-400 text-sm leading-relaxed border-t border-gray-100 dark:border-slate-700/50 pt-4 mt-2">
+                            <span x-text="lang === 'id' ? 'Ya, kami menyediakan kontrak pemeliharaan (SLA) secara bulanan maupun tahunan. Ini mencakup pemantauan jaringan proaktif, pembaruan firmware, dan kunjungan teknisi rutin.' : 'Yes, we provide maintenance contracts (SLA) on a monthly or annual basis. This includes proactive network monitoring, firmware updates, and routine technician visits.'"></span>
+                        </div>
+                    </div>
+                    
+                </div>
+                            <div class="bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-xl overflow-hidden shadow-sm transition-all duration-300"
+                     :class="{ 'ring-2 ring-blue-500/20 border-blue-500/30': activeFaq === 2 }">
+                    
+                    <button @click="activeFaq = activeFaq === 2 ? null : 2" 
+                            class="w-full text-left px-6 py-4 flex items-center justify-between focus:outline-none focus-visible:bg-gray-50 dark:focus-visible:bg-slate-700"
+                            :aria-expanded="activeFaq === 2">
+                        <span class="font-bold text-gray-900 dark:text-white pr-8">
+                            <span x-text="lang === 'id' ? 'Merek perangkat apa saja yang biasa Anda gunakan?' : 'What equipment brands do you typically use?'"></span>
+                        </span>
+                        
+                        <!-- Plus/Minus Icon -->
+                        <span class="shrink-0 w-8 h-8 rounded-full bg-gray-100 dark:bg-slate-700 flex items-center justify-center text-blue-600 dark:text-cyan-400 transition-transform duration-300"
+                              :class="{ 'rotate-180 bg-blue-100 dark:bg-blue-900/30': activeFaq === 2 }">
+                            <svg x-show="activeFaq !== 2" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" /></svg>
+                            <svg x-show="activeFaq === 2" style="display: none;" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" /></svg>
+                        </span>
+                    </button>
+                    
+                    <div x-show="activeFaq === 2" 
+                         x-transition:enter="transition ease-out duration-200"
+                         x-transition:enter-start="opacity-0 -translate-y-2"
+                         x-transition:enter-end="opacity-100 translate-y-0"
+                         x-transition:leave="transition ease-in duration-150"
+                         x-transition:leave-start="opacity-100 translate-y-0"
+                         x-transition:leave-end="opacity-0 -translate-y-2"
+                         style="display: none;">
+                        <div class="px-6 pb-5 text-gray-600 dark:text-gray-400 text-sm leading-relaxed border-t border-gray-100 dark:border-slate-700/50 pt-4 mt-2">
+                            <span x-text="lang === 'id' ? 'Kami menggunakan perangkat berstandar enterprise yang telah teruji keandalannya, seperti Cisco, Ubiquiti UniFi, MikroTik, Ruijie, dan TP-Link Omada. Pemilihan merek akan disesuaikan dengan anggaran dan kebutuhan teknis Anda.' : 'We use enterprise-standard equipment with proven reliability, such as Cisco, Ubiquiti UniFi, MikroTik, Ruijie, and TP-Link Omada. The choice of brand will be tailored to your budget and technical requirements.'"></span>
+                        </div>
+                    </div>
+                    
+                </div>
+                            <div class="bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-xl overflow-hidden shadow-sm transition-all duration-300"
+                     :class="{ 'ring-2 ring-blue-500/20 border-blue-500/30': activeFaq === 3 }">
+                    
+                    <button @click="activeFaq = activeFaq === 3 ? null : 3" 
+                            class="w-full text-left px-6 py-4 flex items-center justify-between focus:outline-none focus-visible:bg-gray-50 dark:focus-visible:bg-slate-700"
+                            :aria-expanded="activeFaq === 3">
+                        <span class="font-bold text-gray-900 dark:text-white pr-8">
+                            <span x-text="lang === 'id' ? 'Apakah jaringan yang dipasang aman dari serangan siber?' : 'Is the installed network safe from cyber attacks?'"></span>
+                        </span>
+                        
+                        <!-- Plus/Minus Icon -->
+                        <span class="shrink-0 w-8 h-8 rounded-full bg-gray-100 dark:bg-slate-700 flex items-center justify-center text-blue-600 dark:text-cyan-400 transition-transform duration-300"
+                              :class="{ 'rotate-180 bg-blue-100 dark:bg-blue-900/30': activeFaq === 3 }">
+                            <svg x-show="activeFaq !== 3" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" /></svg>
+                            <svg x-show="activeFaq === 3" style="display: none;" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 12H4" /></svg>
+                        </span>
+                    </button>
+                    
+                    <div x-show="activeFaq === 3" 
+                         x-transition:enter="transition ease-out duration-200"
+                         x-transition:enter-start="opacity-0 -translate-y-2"
+                         x-transition:enter-end="opacity-100 translate-y-0"
+                         x-transition:leave="transition ease-in duration-150"
+                         x-transition:leave-start="opacity-100 translate-y-0"
+                         x-transition:leave-end="opacity-0 -translate-y-2"
+                         style="display: none;">
+                        <div class="px-6 pb-5 text-gray-600 dark:text-gray-400 text-sm leading-relaxed border-t border-gray-100 dark:border-slate-700/50 pt-4 mt-2">
+                            <span x-text="lang === 'id' ? 'Keamanan adalah prioritas kami. Kami mengkonfigurasi firewall tingkat lanjut, pemisahan VLAN (antara staf, tamu, dan IoT), serta enkripsi WPA3 terbaru untuk memastikan data bisnis Anda aman dari ancaman eksternal.' : 'Security is our priority. We configure advanced firewalls, VLAN segregation (between staff, guests, and IoT), and the latest WPA3 encryption to ensure your business data is safe from external threats.'"></span>
+                        </div>
+                    </div>
+                    
+                </div>
+                    </div>
+</div>
+</section>
+    <section class="py-16 bg-blue-600 dark:bg-blue-900 border-y border-blue-500 dark:border-blue-800">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="flex flex-col md:flex-row items-center justify-between gap-8 scroll-reveal">
+            
+            <div class="flex items-center gap-6">
+                <!-- Siren/Alert Icon -->
+                <div class="w-16 h-16 bg-white/10 rounded-full flex items-center justify-center shrink-0 border border-white/20">
+                    <svg class="w-8 h-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                    </svg>
+                </div>
+                
+                <div>
+                    <h2 class="text-2xl font-bold text-white mb-2">Need Emergency Support?</h2>
+                    <p class="text-blue-100">Our technical team is on standby to handle your critical network issues.</p>
+                </div>
+            </div>
+
+            <div class="flex flex-col sm:flex-row items-center gap-4 w-full md:w-auto">
+                <div class="hidden lg:block text-right mr-4 text-blue-100">
+                    <p class="text-sm uppercase tracking-wider font-semibold opacity-80">SLA Target Response Time</p>
+                    <p class="font-bold text-white">&lt; 1 Hour</p>
+                </div>
+                
+                <a href="tel:+6281234567890" class="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-blue-600 font-bold rounded-xl hover:bg-gray-50 hover:-translate-y-1 transition-all shadow-lg focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-blue-600">
+                    <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                    </svg>
+                    +62 812 3456 7890
+                </a>
+                
+                <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 bg-[#25D366] text-white font-bold rounded-xl hover:bg-[#20bd5a] hover:-translate-y-1 transition-all shadow-lg focus:outline-none focus:ring-2 focus:ring-[#25D366] focus:ring-offset-2 focus:ring-offset-blue-600">
+                    <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/>
+                    </svg>
+                    WhatsApp
+                </a>
+            </div>
+            
+        </div>
+</div>
+</section>
+    <section id="contact" class="py-16 md:py-20 lg:py-24 bg-white dark:bg-slate-900">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="grid lg:grid-cols-2 gap-16">
+            
+            <!-- Left: Contact Info -->
+            <div class="scroll-reveal">
+                <div class="w-full mb-12 md:mb-16 lg:mb-20 text-left animate-slide-up">
+    
+    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-gray-900 dark:text-white leading-tight mb-4">
+        Start Your Project
+    </h2>
+
+            <p class="text-base md:text-lg lg:text-xl text-gray-600 dark:text-gray-400 leading-relaxed whitespace-nowrap">
+            Contact Us
+        </p>
+    
+            <div class="mt-6">
+            Ready to upgrade your network infrastructure? Contact us for a free site survey and consultation.
+        </div>
+    </div>
+
+
+                <div class="mt-12 space-y-8">
+                    <!-- Address -->
+                    <div class="flex gap-4">
+                        <div class="w-12 h-12 rounded-xl bg-blue-50 dark:bg-slate-800 flex items-center justify-center text-blue-600 dark:text-cyan-400 shrink-0">
+                            <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                        </div>
+                        <div>
+                            <h4 class="font-bold text-gray-900 dark:text-white mb-1">Head Office</h4>
+                            <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">Jl. Teknologi Canggih No. 42, Denpasar, Bali, Indonesia</p>
+                            <a href="https://maps.google.com/?q=Denpasar+Bali" target="_blank" rel="noopener noreferrer" class="inline-block mt-2 text-sm font-semibold text-blue-600 dark:text-cyan-400 hover:underline">
+                                View on Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Email & Phone -->
+                    <div class="grid sm:grid-cols-2 gap-8">
+                        <div class="flex gap-4">
+                            <div class="w-12 h-12 rounded-xl bg-blue-50 dark:bg-slate-800 flex items-center justify-center text-blue-600 dark:text-cyan-400 shrink-0">
+                                <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-900 dark:text-white mb-1">Email</h4>
+                                <a href="mailto:hello@jiwacyber.net" class="text-gray-600 dark:text-gray-400 text-sm hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">hello@jiwacyber.net</a>
+                            </div>
+                        </div>
+
+                        <div class="flex gap-4">
+                            <div class="w-12 h-12 rounded-xl bg-blue-50 dark:bg-slate-800 flex items-center justify-center text-blue-600 dark:text-cyan-400 shrink-0">
+                                <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" /></svg>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-gray-900 dark:text-white mb-1">Phone</h4>
+                                <a href="tel:+6281234567890" class="text-gray-600 dark:text-gray-400 text-sm hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">+62 812 3456 7890</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Business Hours -->
+                    <div class="flex gap-4 p-6 bg-gray-50 dark:bg-slate-800/50 rounded-2xl border border-gray-100 dark:border-slate-700">
+                        <div class="w-12 h-12 rounded-xl bg-white dark:bg-slate-700 shadow-sm flex items-center justify-center text-blue-600 dark:text-cyan-400 shrink-0">
+                            <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                        </div>
+                        <div>
+                            <h4 class="font-bold text-gray-900 dark:text-white mb-1">Business Hours</h4>
+                            <p class="text-gray-600 dark:text-gray-400 text-sm">Mon - Sat: 08:00 - 17:00 WITA</p>
+                            <p class="text-blue-600 dark:text-cyan-400 text-sm font-medium mt-1">IT Support: 24/7 Available</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right: Contact Form (Alpine UI States) -->
+            <div class="scroll-reveal delay-200">
+                <div class="bg-white dark:bg-slate-800 rounded-2xl border border-gray-100 dark:border-slate-700/50 shadow-sm overflow-hidden flex flex-col h-full transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 hover:border-gray-200 dark:hover:border-slate-600 p-8 sm:p-10">
+    <div x-show="status === 'success'" style="display: none;" class="h-full flex flex-col items-center justify-center py-12 text-center animate-fade-in">
+                        <div class="w-20 h-20 bg-emerald-100 dark:bg-emerald-900/30 rounded-full flex items-center justify-center text-emerald-500 mb-6">
+                            <svg class="w-10 h-10" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                        </div>
+                        <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-2">Message Sent!</h3>
+                        <p class="text-gray-600 dark:text-gray-400">Thank you for reaching out. Our team will reply to your message within 24 business hours.</p>
+                        <button type="button" class="inline-flex items-center justify-center gap-2 font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-slate-900 disabled:opacity-50 disabled:cursor-not-allowed bg-transparent text-blue-600 border border-blue-600 hover:bg-blue-50 focus:ring-blue-500 dark:text-cyan-400 dark:border-cyan-400 dark:hover:bg-cyan-950 dark:focus:ring-cyan-500 hover:-translate-y-0.5 h-11 px-5 text-base mt-8" @click="status = 'idle'">
+                Send Another Message
+    </button>
+                    </div>
+
+                    <form x-show="status !== 'success'" @submit.prevent="submit" class="space-y-6">
+                        <div class="grid sm:grid-cols-2 gap-6">
+                            <!-- Name -->
+                            <div>
+                                <label for="name" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Full Name <span class="text-rose-500">*</span></label>
+                                <input type="text" id="name" x-model="form.name" :class="{'border-rose-300 focus:border-rose-500 focus:ring-rose-500': errors.name}" class="w-full px-4 py-3 rounded-xl border border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-900/50 text-gray-900 dark:text-white focus:bg-white dark:focus:bg-slate-800 focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none" placeholder="John Doe">
+                                <p x-show="errors.name" x-text="errors.name" class="mt-1.5 text-xs text-rose-500" style="display: none;"></p>
+                            </div>
+                            <!-- Email -->
+                            <div>
+                                <label for="email" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Email Address <span class="text-rose-500">*</span></label>
+                                <input type="email" id="email" x-model="form.email" :class="{'border-rose-300 focus:border-rose-500 focus:ring-rose-500': errors.email}" class="w-full px-4 py-3 rounded-xl border border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-900/50 text-gray-900 dark:text-white focus:bg-white dark:focus:bg-slate-800 focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none" placeholder="john@company.com">
+                                <p x-show="errors.email" x-text="errors.email" class="mt-1.5 text-xs text-rose-500" style="display: none;"></p>
+                            </div>
+                        </div>
+
+                        <!-- Service Interest -->
+                        <div>
+                            <label for="service" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Required Service</label>
+                            <select id="service" x-model="form.service" class="w-full px-4 py-3 rounded-xl border border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-900/50 text-gray-900 dark:text-white focus:bg-white dark:focus:bg-slate-800 focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none appearance-none">
+                                <option value="">Select a Service</option>
+                                                                    <option value="lan-installation" x-text="lang === 'id' ? 'Instalasi Jaringan LAN' : 'LAN Network Installation'"></option>
+                                                                    <option value="structured-cabling" x-text="lang === 'id' ? 'Sistem Kabel Terstruktur' : 'Structured Cabling'"></option>
+                                                                    <option value="wifi-optimization" x-text="lang === 'id' ? 'Optimalisasi WiFi Enterprise' : 'Enterprise WiFi Optimization'"></option>
+                                                                    <option value="network-maintenance" x-text="lang === 'id' ? 'Pemeliharaan Jaringan' : 'Network Maintenance'"></option>
+                                                                    <option value="server-rack" x-text="lang === 'id' ? 'Instalasi Server Rack' : 'Server Rack Installation'"></option>
+                                                                    <option value="network-audit" x-text="lang === 'id' ? 'Audit &amp; Analisis Jaringan' : 'Network Audit &amp; Analysis'"></option>
+                                                            </select>
+                        </div>
+
+                        <!-- Message -->
+                        <div>
+                            <label for="message" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Project Details or Message <span class="text-rose-500">*</span></label>
+                            <textarea id="message" x-model="form.message" rows="4" :class="{'border-rose-300 focus:border-rose-500 focus:ring-rose-500': errors.message}" class="w-full px-4 py-3 rounded-xl border border-gray-200 dark:border-slate-700 bg-gray-50 dark:bg-slate-900/50 text-gray-900 dark:text-white focus:bg-white dark:focus:bg-slate-800 focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all outline-none resize-none" placeholder="Tell us about your networking needs..."></textarea>
+                            <p x-show="errors.message" x-text="errors.message" class="mt-1.5 text-xs text-rose-500" style="display: none;"></p>
+                        </div>
+
+                        <!-- Submit -->
+                        <button type="submit" class="inline-flex items-center justify-center gap-2 font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 dark:focus:ring-offset-slate-900 disabled:opacity-50 disabled:cursor-not-allowed bg-blue-600 text-white hover:bg-blue-700 hover:shadow-md hover:-translate-y-0.5 focus:ring-blue-500 shadow-sm border border-transparent dark:bg-cyan-600 dark:hover:bg-cyan-500 dark:focus:ring-cyan-500 h-12 px-6 text-lg w-full" x-bind:disabled="status === 'submitting'">
+                <span x-show="status !== 'submitting'">Send Message</span>
+                            <span x-show="status === 'submitting'" style="display: none;" class="flex items-center gap-2">
+                                <svg class="animate-spin -ml-1 mr-2 h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                                </svg>
+                                Sending...
+                            </span>
+    </button>
+                    </form>
+</div>
+            </div>
+            
+        </div>
+</div>
+</section>
+    </main>
+
+    <footer class="bg-white dark:bg-slate-900 border-t border-gray-200 dark:border-slate-800 pt-16 md:pt-20 lg:pt-24 pb-8">
+    <div class="max-w-7xl mx-auto w-full px-6 lg:px-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
+            
+            <!-- Brand & About -->
+            <div class="col-span-1 lg:col-span-1">
+                <a href="http://company-profile.test" class="flex items-center gap-3 mb-6" aria-label="Jiwa Cyber Network Home">
+                    <div class="flex items-center justify-center w-8 h-8 rounded-lg bg-gradient-to-br from-blue-600 to-cyan-500 text-white">
+                        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+                        </svg>
+                    </div>
+                    <span class="text-xl font-bold text-gray-900 dark:text-white">Jiwa Cyber</span>
+                </a>
+                <p class="text-sm text-gray-600 dark:text-gray-400 leading-relaxed mb-6">
+                    Jiwa Cyber Network delivers enterprise-grade network installation, WiFi optimization, structured cabling, and infrastructure maintenance to ensure stable, secure, and high-performance connectivity for businesses across Bali.
+                </p>
+                <!-- Social Links -->
+                <div class="flex gap-4">
+                                            <a href="https://linkedin.com/company/jiwacybernetwork" target="_blank" rel="noopener noreferrer" class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 dark:bg-slate-800 text-gray-600 dark:text-gray-400 hover:bg-blue-600 hover:text-white dark:hover:bg-blue-600 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500" aria-label="Linkedin">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                                                                    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+                                                            </svg>
+                        </a>
+                                            <a href="https://instagram.com/jiwacybernetwork" target="_blank" rel="noopener noreferrer" class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 dark:bg-slate-800 text-gray-600 dark:text-gray-400 hover:bg-blue-600 hover:text-white dark:hover:bg-blue-600 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500" aria-label="Instagram">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                                                                    <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                                                            </svg>
+                        </a>
+                                            <a href="https://twitter.com/jiwacyber" target="_blank" rel="noopener noreferrer" class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 dark:bg-slate-800 text-gray-600 dark:text-gray-400 hover:bg-blue-600 hover:text-white dark:hover:bg-blue-600 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500" aria-label="Twitter">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                                                                    <path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"/>
+                                                            </svg>
+                        </a>
+                                            <a href="https://facebook.com/jiwacyber" target="_blank" rel="noopener noreferrer" class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 dark:bg-slate-800 text-gray-600 dark:text-gray-400 hover:bg-blue-600 hover:text-white dark:hover:bg-blue-600 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500" aria-label="Facebook">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                                                                    <path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/>
+                                                            </svg>
+                        </a>
+                                    </div>
+            </div>
+
+            <!-- Quick Links -->
+            <div class="col-span-1">
+                <h3 class="text-sm font-semibold text-gray-900 dark:text-white uppercase tracking-wider mb-4">Quick Links</h3>
+                <ul class="space-y-3">
+                    <li><a href="#about" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">About</a></li>
+                    <li><a href="#services" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">Services</a></li>
+                    <li><a href="#portfolio" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">Portfolio</a></li>
+                    <li><a href="#testimonials" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">Testimonials</a></li>
+                    <li><a href="#faq" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">FAQ</a></li>
+                </ul>
+            </div>
+
+            <!-- Services -->
+            <div class="col-span-1">
+                <h3 class="text-sm font-semibold text-gray-900 dark:text-white uppercase tracking-wider mb-4">Main Services</h3>
+                <ul class="space-y-3">
+                                            <li>
+                            <a href="#services" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors line-clamp-1">
+                                <span x-text="lang === 'id' ? 'Instalasi Jaringan LAN' : 'LAN Network Installation'"></span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="#services" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors line-clamp-1">
+                                <span x-text="lang === 'id' ? 'Sistem Kabel Terstruktur' : 'Structured Cabling'"></span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="#services" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors line-clamp-1">
+                                <span x-text="lang === 'id' ? 'Optimalisasi WiFi Enterprise' : 'Enterprise WiFi Optimization'"></span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="#services" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors line-clamp-1">
+                                <span x-text="lang === 'id' ? 'Pemeliharaan Jaringan' : 'Network Maintenance'"></span>
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="#services" class="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-cyan-400 transition-colors line-clamp-1">
+                                <span x-text="lang === 'id' ? 'Instalasi Server Rack' : 'Server Rack Installation'"></span>
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+
+            <!-- Contact -->
+            <div class="col-span-1">
+                <h3 class="text-sm font-semibold text-gray-900 dark:text-white uppercase tracking-wider mb-4">Contact Us</h3>
+                <ul class="space-y-4">
+                    <li class="flex items-start gap-3 text-gray-600 dark:text-gray-400">
+                        <svg class="w-5 h-5 text-gray-400 shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                        </svg>
+                        <span class="text-sm leading-relaxed">Jl. Teknologi Canggih No. 42, Denpasar, Bali, Indonesia</span>
+                    </li>
+                    <li class="flex items-center gap-3 text-gray-600 dark:text-gray-400">
+                        <svg class="w-5 h-5 text-gray-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                        </svg>
+                        <span class="text-sm">+62 812 3456 7890</span>
+                    </li>
+                    <li class="flex items-center gap-3 text-gray-600 dark:text-gray-400">
+                        <svg class="w-5 h-5 text-gray-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                        </svg>
+                        <a href="mailto:hello@jiwacyber.net" class="text-sm hover:text-blue-600 dark:hover:text-cyan-400 transition-colors">hello@jiwacyber.net</a>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+
+        <!-- Copyright -->
+        <div class="pt-8 border-t border-gray-200 dark:border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4">
+            <p class="text-sm text-gray-500 dark:text-gray-400">
+                &copy; 2026 Jiwa Cyber Network. All rights reserved.
+            </p>
+            <div class="flex items-center gap-4 text-sm text-gray-500 dark:text-gray-400">
+                <a href="#" class="hover:text-gray-900 dark:hover:text-white transition-colors">Privacy Policy</a>
+                <a href="#" class="hover:text-gray-900 dark:hover:text-white transition-colors">Terms of Service</a>
+            </div>
+        </div>
+</div>
+</footer>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/6281234567890" 
+       target="_blank" 
+       rel="noopener noreferrer"
+       x-show="!mobileMenuOpen"
+       x-transition:enter="transition ease-out duration-300"
+       x-transition:enter-start="opacity-0 translate-y-8"
+       x-transition:enter-end="opacity-100 translate-y-0"
+       class="fixed bottom-6 right-6 z-40 flex items-center justify-center w-14 h-14 bg-[#25D366] text-white rounded-full shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all duration-300 group focus:outline-none focus:ring-2 focus:ring-[#25D366] focus:ring-offset-2"
+       aria-label="Chat on WhatsApp">
+        <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/>
+        </svg>
+        
+        <!-- Tooltip -->
+        <div class="absolute right-full mr-4 top-1/2 -translate-y-1/2 px-3 py-1.5 bg-gray-900 dark:bg-white text-white dark:text-gray-900 text-sm font-medium rounded-lg whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none shadow-sm">
+            Need help? Chat with us
+            <div class="absolute right-0 top-1/2 -translate-y-1/2 translate-x-1/2 rotate-45 w-2 h-2 bg-gray-900 dark:bg-white"></div>
+        </div>
+    </a>
+
+    <!-- Back to Top Button -->
+    <button @click="window.scrollTo({top: 0, behavior: 'smooth'})" 
+            x-show="scrolled" 
+            x-transition:enter="transition ease-out duration-300"
+            x-transition:enter-start="opacity-0 translate-y-8"
+            x-transition:enter-end="opacity-100 translate-y-0"
+            x-transition:leave="transition ease-in duration-300"
+            x-transition:leave-start="opacity-100 translate-y-0"
+            x-transition:leave-end="opacity-0 translate-y-8"
+            class="fixed bottom-24 right-6 z-40 p-3 bg-white dark:bg-slate-800 text-gray-600 dark:text-gray-300 rounded-xl shadow-md border border-gray-100 dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700 hover:text-blue-600 dark:hover:text-cyan-400 transition-all focus:outline-none focus:ring-2 focus:ring-blue-500"
+            aria-label="Back to top">
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 10l7-7m0 0l7 7m-7-7v18" />
+        </svg>
+    </button>
+
+</body>
+</html>
+
